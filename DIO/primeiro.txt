@@ -8,6 +8,85 @@ promissoras ?
 contínuo para seus clientes, parceiros e sociedade.
 A tecnologia habilida isso!
 
+O mercado de trabalho é: 
+	- imprevisível
+	- volátil
+	- ambiguo
+
+
+desenvolver minha soft skills
+soft skills: são um conjunto de habilidades e competências
+relacionadas  ao comportamento humano. Dessa forma, são consideradas
+como características necessárias para que um profissional alcence os
+seus objetivos  profissioais, aquilo que estabelece para a sua 
+carreira.
+
+ex: liderança, protagonismo.
+
+hard skills: São as habilidades técnicas, não comportamentais. Ou
+seja, tudo aquilo que você aprende no ensino formal ou não, em 
+cursos, treinamentos, na graduação e pós-graduação. São informações
+que vc quer colocar no curriculo, atualizar no perfil do Linkedin
+ou destacar para o recrutador em um processo de seleção.
+
+ex: conhecimento tecnico
+
+O MEU SUCESSO DEPENDE DE MIM
+
+
+Soft Skills importantes:
+	- Protagonismo
+	- Colaboração
+	- Atitude
+	- Disciplina
+	- Criatividade
+	- Curiosidade
+	- Perfeccionista (não aceitar o trabalho mais ou menos)
+
+
+10 dicas para ser contratado por uma empresa inovadora de tecnologia
+
+	Caractereisticas dos aprovados
+-> 85% tinham repositório de projetos alinhado ao currículo.
+-> 50% tinham artigos publicados e construção de conhecimento 
+pública na internet
+-> 85% estavam integrados colaborativamente a uma comunidade de 
+desenvolvimento de software.
+-> 90% tinham sonho grande e ambição para crescer profissionalmente.
+-> 75% utilizam as principais comunidades e sites internacionais 
+para suas pesquisas.
+-> 100% haviam concluído ou estavam cursando uma graduação na area
+de exatas.
+-> 80% apresentavam evidências de contatos com as novas tecnologias:
+Cloud, BigData, IA, reconhecimento de voz, mobilidade, etc.
+-> 90% com grande conhecimento em metodolias ágeis, devops e ux.
+-> 85% tinham contas em provedore cloud e ferramentas online para
+devs
+-> 100% tinha evidências de aprendizagem continua através da internet.
+
+
+github colocar no linkedin
+
+Características dos não aprovados
+
+-> Não tem projetos e portfólio para apresentar
+-> Não conhece e nunca praticou as novas tecnologias
+-> Não está conectado a nenhuma comunidade de aprendizagem seja 
+fisico ou digital
+-> Não apresenta elementos de colaboração e trabalho em equipe.
+-> Muito foco no curriculo e não na jornada.
+-> Conhece codificação mas não conhece arquitetura moderna e com 
+pouca visão de holístca de desenvolvimento e operação de software.
+-> Nâo apresenta características de curiosidade, autodidata e 
+protagonismo.
+-> Apresenta poucas evidências de disciplina para traça metas de
+aprendizagem e aprender ontinuamente online.
+-> Não tem fit com a cultura e propósito da empresa.
+-> Dificuldade com algoritmos complexos e pensamento lógico.
+
+
+
+
 
 
 
