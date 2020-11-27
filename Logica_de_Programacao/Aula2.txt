@@ -27,14 +27,22 @@ Fim-dia
 
 Se eu alterar a ordem pode dar erro no código
 
+- O que é um pseudocódigo ?
+	Pseudocódigo é uma forma genérica de escrever um algoritmo,
+utilizando uma linguagem simples(nativa, ou seja, em português a 
+quem o escreve de forma a ser entendida por qualquer pessoa).
 
 
+https://www.proprofs.com/games/wolf-sheep-and-cabbage/
 
 
-
-
-
-
+Exercício 
+1- Um algoritmo do seu dia
+2- Abra o site
+https://studio.code.org/s/mc/stage/1/puzzle/1
+e tente resolver todos os problemas em menos de uma hora.
+3- https://rachacuca.com.br/jogos/pinguins-numa-fria/ 
+resolver o problema
 
 
 
