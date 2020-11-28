@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Notebook"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2020-11-28 12:21:21 "/>
+        <attribute name="created" value="Tm90ZWJvb2s7REVTS1RPUC05TkpDQkZROzIwMjAtMTEtMjg7IjEyOjE1OjA5ICI7MzA5OA=="/>
+        <attribute name="edited" value="Tm90ZWJvb2s7REVTS1RPUC05TkpDQkZROzIwMjAtMTEtMjg7IjEyOjIxOjIxICI7MTszMTk3"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="numero, limite, cont" type="Integer" array="False" size=""/>
+            <assign variable="cont" expression="0"/>
+            <assign variable="numero" expression="0"/>
+            <assign variable="limite" expression="90"/>
+            <output expression="&quot;Tabuado do numero 9&quot;" newline="True"/>
+            <while expression="numero &lt;= limite">
+                <output expression="&quot;9 x &quot; &amp; cont &amp; &quot; = &quot; &amp; numero" newline="True"/>
+                <assign variable="numero" expression="numero + 9"/>
+                <assign variable="cont" expression="cont + 1"/>
+            </while>
+        </body>
+    </function>
+</flowgorithm>
