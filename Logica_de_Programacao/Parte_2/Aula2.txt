@@ -1,0 +1,78 @@
+-> Linguagens de programação e o portugol
+
+-> O que são linguagens de Programação
+- Definição:
+	Linguagem de programação é uma linguagem escrita e formal 
+que especifica um conjunto de instruções e regras usadas para gerar
+programas(software). Um software pode ser desenvolvido para rodar 
+em um computador, dispositivo móvel oou em qualquer equipamente que
+permita sua execução.
+
+	O que é óbvio para você, certamente não é óbvio para uma 
+máquina. E se você quer que a máquina faça algo para você, você 
+precisa, "falar com ela".
+	A FUNÇÃO DAS LINGUAGENS DE PROGRAMAÇÃO É SERVIR DE UM MEIO 
+DE COMUNICAÇÃO ENTRE COMPUTADORES E HUMANOS.
+
+-> Baixo e Alto nível
+	- Alto nível:
+	Essas são aquelas cuja sintaxe se aproxima mais da nossa 
+linguagem e se distanciam mais da linguagem de máquina.
+	- Baixo nível
+	É aquela que se aproxima mais da linguagem de máquina. Essas
+são as que você precisa ter o conhecimento direto da arquitetura do
+computador para fazer alguma coisa.
+
+-> Compiladas ou Interpretadas
+	- Compiladas
+	É uma linguagem de programação em que o código fonte, é 
+executado diretamente pelo sisttema operacional ou pelo processador,
+após ser traduzido por meio de um processo chamado compilação.
+	- Interpratadas
+	É uma linguagem de programação em que o código fonte é 
+execultadopor um programa de computador chamado interpreador, que em
+seguida é execultado pelo sistema operacional ou processador.
+
+O que é o Portugol ?
+
+Porugol é uma pseudolinguagem que perimite ao leitor desenvolver 
+algoritmo estruturados em português de forma simples e intuitiva, 
+independentemente de linguagem de programação.
+
+É uma pseudolinguagem que permite ao programador pensar no problema
+em si e não no equipamento que irá executar o algoritmo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
