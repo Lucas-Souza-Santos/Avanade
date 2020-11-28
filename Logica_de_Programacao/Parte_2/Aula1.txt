@@ -1,0 +1,6 @@
+-> Estrutura de repetição
+
+Definição:
+	Dentro da lógica de programação é uma estrutra que permite 
+exercutar mais de uma vez o mesmo comando ou conjunto de comandos, 
+de acordo com uma condição ou com um contador.
