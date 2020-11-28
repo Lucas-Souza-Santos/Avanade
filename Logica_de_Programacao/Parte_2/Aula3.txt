@@ -1,0 +1,39 @@
+-> Desvio Condicional
+É utilizada a palavra reservada SE, a condição a ser testada entre
+parenteses e as instruções que devem executadas entre chaves caso o
+desvio seja VERDADEIRO.
+
+Exemplo
+se (media >= 7){
+	escreva("Aluno Aprovado")
+
+}
+
+-> se-senao
+	Agora vamos imaginar que se a condição for falsa um outro
+conjunto de comandos deve ser executado. Quando iremos encontrar 
+esta situação ?
+
+-> caso
+	Este comando é similar aos comandos se e senão, e reduz a 
+complexidade na escolha de diversas opções. Apesar de suas 
+similiridades com o se, ele possui algumas diferenças. Neste comando
+não é possível o uso de operadores lógicos, ele apenas trabalha com
+valores definidos.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
