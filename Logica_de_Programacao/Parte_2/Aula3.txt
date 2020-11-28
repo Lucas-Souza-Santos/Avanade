@@ -22,7 +22,7 @@ não é possível o uso de operadores lógicos, ele apenas trabalha com
 valores definidos.
 
 
-
+https://github.com/UNIVALI-LITE/Portugol-Studio/releases/
 
 
 
