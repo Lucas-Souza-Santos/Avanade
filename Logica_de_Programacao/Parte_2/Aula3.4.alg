@@ -26,6 +26,7 @@ inicio
                       escreva("Abrindo HBO GO")
                  caso 4
                       escreva("Saindo")
+
    fimescolha
 
 fimalgoritmo
