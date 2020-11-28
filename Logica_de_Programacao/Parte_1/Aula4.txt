@@ -1,0 +1,55 @@
+- Expressões Aritméticas 
+
+	São expressões que utilizam operadores aritméticos e 
+funções aritméticas envolvendo constantes e variáveis.
+
+- Operadores aritméticos
+soma			+
+subtração		-
+multiplicação		*
+Divisão			/
+Potenciação		^
+Porcentagem		%
+
+- Expressões literais
+	São expressões com constantes e/ou variáveis que tem como 
+resultado valores literias. Iremos utilizar as expressões literais
+na atribuição de valor para uma variável ou constante.
+
+Exemplos:
+nome = "José da Silva" software real ou pseudocódigo
+nome <- "José da Silva" pseudocodigo
+media = (nota1 + nota2 + nota3 + nota4)/4
+
+- Operadores relacionais
+	São expressões compostas por outras expressões ou variáveis
+numéricas com operadores relacionais. As expressões relacionais 
+retornam valores lógicos(verdadeiro/falso)
+Simbolo 	Nome do Operador	Exemplo		Significado
+>		maior que		x > y		x é maior que y ?
+>= 		maior ou igual		x >= y		x é maior ou igual a y ?
+<		menor que 		x < y		x é menor que y ?
+<= 		menor ou igual		x <= y		x é menor ou igual a y ?
+== 		igualdade		x == y		x é igaul a y ?
+!= 		diferente de		x != y		x é diferente de y ?
+
+- Tomada de decisão
+	Quando escrevemos programas, geralmente ocorre a necessidade
+de decidir o que fazer dependendo de alguma condição encontrada
+durante a execução.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
