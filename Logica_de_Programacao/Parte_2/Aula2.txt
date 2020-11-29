@@ -35,7 +35,7 @@ seguida é execultado pelo sistema operacional ou processador.
 
 O que é o Portugol ?
 
-Porugol é uma pseudolinguagem que perimite ao leitor desenvolver 
+Porugol é uma pseudolinguagem que permite ao leitor desenvolver 
 algoritmo estruturados em português de forma simples e intuitiva, 
 independentemente de linguagem de programação.
 
