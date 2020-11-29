@@ -1,0 +1,24 @@
+-> Git e Github
+
+-> Git - Software de versionamento de código
+
+-> Github é da microsoft e é diferente do git e é um repositório 
+online
+
+-> linus criou o git pq teve raíva do antigo versionador que usava
+para guardar o kernel do linux
+
+software não é feito sozinho
+
+
+
+
+
+
+
+
+
+
+
+
+
