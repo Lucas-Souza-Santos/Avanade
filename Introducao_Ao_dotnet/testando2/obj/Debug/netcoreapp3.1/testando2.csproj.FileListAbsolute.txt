@@ -1,0 +1,13 @@
+C:\Users\Notebook\Documents\GitHub\Avanade\Introducao_Ao_dotnet\testando2\bin\Debug\netcoreapp3.1\testando2.exe
+C:\Users\Notebook\Documents\GitHub\Avanade\Introducao_Ao_dotnet\testando2\bin\Debug\netcoreapp3.1\testando2.deps.json
+C:\Users\Notebook\Documents\GitHub\Avanade\Introducao_Ao_dotnet\testando2\bin\Debug\netcoreapp3.1\testando2.runtimeconfig.json
+C:\Users\Notebook\Documents\GitHub\Avanade\Introducao_Ao_dotnet\testando2\bin\Debug\netcoreapp3.1\testando2.runtimeconfig.dev.json
+C:\Users\Notebook\Documents\GitHub\Avanade\Introducao_Ao_dotnet\testando2\bin\Debug\netcoreapp3.1\testando2.dll
+C:\Users\Notebook\Documents\GitHub\Avanade\Introducao_Ao_dotnet\testando2\bin\Debug\netcoreapp3.1\testando2.pdb
+C:\Users\Notebook\Documents\GitHub\Avanade\Introducao_Ao_dotnet\testando2\obj\Debug\netcoreapp3.1\testando2.csprojAssemblyReference.cache
+C:\Users\Notebook\Documents\GitHub\Avanade\Introducao_Ao_dotnet\testando2\obj\Debug\netcoreapp3.1\testando2.AssemblyInfoInputs.cache
+C:\Users\Notebook\Documents\GitHub\Avanade\Introducao_Ao_dotnet\testando2\obj\Debug\netcoreapp3.1\testando2.AssemblyInfo.cs
+C:\Users\Notebook\Documents\GitHub\Avanade\Introducao_Ao_dotnet\testando2\obj\Debug\netcoreapp3.1\testando2.csproj.CoreCompileInputs.cache
+C:\Users\Notebook\Documents\GitHub\Avanade\Introducao_Ao_dotnet\testando2\obj\Debug\netcoreapp3.1\testando2.dll
+C:\Users\Notebook\Documents\GitHub\Avanade\Introducao_Ao_dotnet\testando2\obj\Debug\netcoreapp3.1\testando2.pdb
+C:\Users\Notebook\Documents\GitHub\Avanade\Introducao_Ao_dotnet\testando2\obj\Debug\netcoreapp3.1\testando2.genruntimeconfig.cache
