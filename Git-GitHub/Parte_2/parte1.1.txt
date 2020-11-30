@@ -1,0 +1,24 @@
+GUI x CLI
+O que vamos aprender ?
+	- mudar de pastas
+	-  listar as pastas
+	- criar pastas/arquivos
+	- deletar pastas/arquivos
+
+windows			unix
+  - cd			 - cd
+  - dir			 - ls
+  - mkdir		 - mkdir
+  - del/rmdir		 - rm -rf
+
+
+
+
+
+
+
+
+
+
+
+
