@@ -8,3 +8,6 @@
 	- Magalu
 	- stack overflow
 	- microsoft
+
+
+https://docs.microsoft.com/en-us/dotnet/

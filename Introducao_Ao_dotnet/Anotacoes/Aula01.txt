@@ -2,6 +2,9 @@
 
 about.me/gabrielfaraday
 
+	-Anos
+	Microsoft iniciou nos anos 70 criando linguagens de 
+programação: Basic
 
 	- Anos 80
 	Nos anos 80, surge o DOS, que foi utilizado como OS padrão
@@ -17,6 +20,7 @@ ferramentas de desenvolvimento (IDEs e rutimes) com o VISUAL STUDIO
 	> Visual FoxPro 5
 	> C++ 5
 	> J++ - java versão da microsoft
+	Já tinha o windows 95
 
 	- 1998
 	Lançamento do Visual Studio 6:
@@ -47,7 +51,7 @@ reimplementação black box do .NET, opem source e multiplataforma
 
 	- 2002
 	Lançamento do Visual Studio .NET com C# 1.0
-	Conhecido como 22 liinguagens, 1 plataforma:
+	Conhecido como 22 linguagens, 1 plataforma:
 	> C#.net
 	> C++.net
 	> VB.net
@@ -70,14 +74,14 @@ evoluindo na web.
 
 	- 2007 - 2008
 	Lançamento do >NET 3.5 com C# no Visual Studio 2008, com 
-Silverlight, WPF(para desktop) e WCF(serviço web)
+Silverlight, WPF(para criar aplicações desktop) e WCF(serviço web)
 	Microsoft contrata um time de pessoas que tinham uma pegada
 open source e começam a atuar na criação do ASP.NET MVC
-	Começa a se falar em Windows Azure
+	Começa a se falar em Windows Azure(para aplicação em cloud)
 
 	- 2010
 	Lançamento do .NET 4.0 com C# 4.0 no Visual Studio 2010,
-também com F#
+também com F# -> (orientada a funcional)
 	Microsoft lança comercialmente windows azure
 	Anders Hejlsberg começa a trabalhar no Typescript
 
@@ -91,7 +95,8 @@ em C# aplicativos que rodam em Android e iOS
 
 	- 2013
 	Lançamento do .NET4.5.1 no Visual Studio 2013
-	Incio do Roslyn, um novo compilador para C# e VB.Net
+	Incio do Roslyn(feito em C#), um novo compilador para C# e 
+VB.Net.
 	Microsoft continua atuando mais na frente do JS e aumenta 
 também a incorporação de ferramentas open source ao ambiente
 	Já temos aqui o ASP.NET mais consolidado com MVC, Web API e
