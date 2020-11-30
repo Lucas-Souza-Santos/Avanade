@@ -1,0 +1,149 @@
+-> O que é o dotnet ?
+
+about.me/gabrielfaraday
+
+
+	- Anos 80
+	Nos anos 80, surge o DOS, que foi utilizado como OS padrão
+para computadores IBM
+	NOS PRÓXIMOS ANOS A MICROSOFT ATUA FORTEMENTE NA CRIAÇÃO DO
+OS WINDOWS
+
+	- 1997
+	No fim dos anos 90, a Microsoft tentou consolidar as
+ferramentas de desenvolvimento (IDEs e rutimes) com o VISUAL STUDIO
+97:
+	> Visual Basic 5
+	> Visual FoxPro 5
+	> C++ 5
+	> J++ - java versão da microsoft
+
+	- 1998
+	Lançamento do Visual Studio 6:
+	
+	> Visual Basic 6
+	> Visual FoxPro 6
+	> C++ 6
+	> J++ 6
+
+	- 1999
+	Scott Guthrie criou uma ferramenta web com java, e a chamou
+ASP+ (depois chamou ASP Next e depois ASPX)
+	Jason Zander ajudou na criação de um common runtime para VB
+e C++ (CLR)
+	Java ia bem! Então a Sun Microsystems fez um acordo para a 
+Microsoft não mexer mais com Java!
+	Com isso, Anders Hejlsberg começou a trabalhar no C#
+
+obs.: Muitos dizem que se não fosse esse acordo não existiria o C#
+
+	- 2000
+	Microsoft lança o novo ambiente de desenvolvimento .NET 1.0
+- incialmente chamado de Next Generation Eindows Services (NGWS)
+
+	- 2001
+	Miguel de Icaza começa a trabalhar no projeto Mono, uma 
+reimplementação black box do .NET, opem source e multiplataforma
+
+	- 2002
+	Lançamento do Visual Studio .NET com C# 1.0
+	Conhecido como 22 liinguagens, 1 plataforma:
+	> C#.net
+	> C++.net
+	> VB.net
+	> J#.net
+	> Entre outras
+
+	- 2003
+	Lançamento do .net 1.1 com visual studio 2003
+	Trabalham em melhorias na CLR para lançar a CLR 2
+
+	um codigo c#, VB.NET e J#. Cada linguagens tem o seu
+compilador que vai transformar os codigo escritos em uma linguagens
+intermediaria(IL), e essa linguagenm intermediária que vai ser 
+interpretada pelo CLR, que vai converter para código de máquina.
+
+	- 2005
+	Lançamento do .NET 2.0 com C# 2.0 no Visual Studio 2005
+	Microsoft começa a atingir seu objetivo inicial, inclusive
+evoluindo na web.
+
+	- 2007 - 2008
+	Lançamento do >NET 3.5 com C# no Visual Studio 2008, com 
+Silverlight, WPF(para desktop) e WCF(serviço web)
+	Microsoft contrata um time de pessoas que tinham uma pegada
+open source e começam a atuar na criação do ASP.NET MVC
+	Começa a se falar em Windows Azure
+
+	- 2010
+	Lançamento do .NET 4.0 com C# 4.0 no Visual Studio 2010,
+também com F#
+	Microsoft lança comercialmente windows azure
+	Anders Hejlsberg começa a trabalhar no Typescript
+
+	- 2011
+	Miguel de Icaza inicia Xamarin, basicamente ele desenvolvia
+em C# aplicativos que rodam em Android e iOS
+
+	- 2012
+	Lançamento do .NET 4.5 com C#5.0 no Visual Studio 2012
+	Lançamento do Typescript
+
+	- 2013
+	Lançamento do .NET4.5.1 no Visual Studio 2013
+	Incio do Roslyn, um novo compilador para C# e VB.Net
+	Microsoft continua atuando mais na frente do JS e aumenta 
+também a incorporação de ferramentas open source ao ambiente
+	Já temos aqui o ASP.NET mais consolidado com MVC, Web API e
+SignalR
+	MAS, TUDO AINDA É MUITO WINDOWS!
+
+	- 2014
+	Satya Nadella se torna CEO da Microsoft e direciona o foco
+da empre para cloud
+	Criação do .NET Foundation para gestão de projetos open 
+source
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
