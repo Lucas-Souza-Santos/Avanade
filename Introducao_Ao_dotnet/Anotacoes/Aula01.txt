@@ -103,7 +103,9 @@ SignalR
 da empre para cloud
 	Criação do .NET Foundation para gestão de projetos open 
 source
-
+	Windows Azure passa a se chamar Microsoft Azure
+	É introduzido o conceito do ASP.NET vNext, posteriormente
+chamado de ASP.NET Core
 
 
 
