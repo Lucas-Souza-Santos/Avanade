@@ -1,6 +1,83 @@
 -> Conhecendo o C#
 	- Parte 01
 
+	1. O que é C# ?
+		C# é uma linguagem elegante, orientada a objeto e 
+fortemente tipada
+	A sintaxe do C# é similar a do C, C++ ou Java
+	Suporta os conceitos de encapsulamento, herança e 
+polimorfismo (OO)
+	Os programas C# saõ executados no .NET, que inlui:
+	- CLR (Common Language Runtime)
+	- Conjunto unificado de biblioteca de classes
+	Atualmente o compilador do C# é o Roslyn(escrito em C#)
+
+	2. Como funciona ?
+		O código fonte escrito em C# é compilado em uma 
+linguagem intermediária(IL)
+	O código e os recursos de IL são armazenados no disco em um
+arquivo executável chamado assembly, geralmente com uma extensão
+.exe ou .dll
+	Quando o programa C# é executado, o assembly é carregado no 
+CLR
+	Em seguida o CLR executará a compilaçao just in time (JIT)
+para converter o código  IL em instruções de máquina nativas.
+	O CLR também fornece outros serviços:
+	- Garbage Collector
+		> Ferramente que trabalha colentando o lixo
+		> Valida/Verifica objeto na memória que não estão 
+		sendo mais ultilizado, desalocando para que aja mais
+		memória
+	- Exception Handler
+		> Receber e controlar as excepções de erros no nosso 
+		código
+	- Resources Manager
+	Além dos serviços de tempo de execução, o .NET também inclui
+uma extensa biblioteca com milhares de classes que fornecem uma
+ampla variedade de funcionalidades úteis, desde entrada e sáida de 
+arquvios, manipulação de cadeias de caracteres, análise XML, etc
+
+	3. Estrutura de Programa
+	Os principais conceitos organizacionais em C# são:
+	> programas	
+	> namespace
+	> tipos 
+	> membros
+	> assemblies
+
+	Programas C# consistem em um ou mais arquivos
+	Os programas declaram tipos, que contêm membros e podem ser 
+organizados em namespaces
+	Classes e interfaces são exemplos de tipos
+	Campos, métodos, propriedades e eventos são exemplos de 
+membros.
+	Quando os programas C# são compilados, eles são fisicamente
+empacotados em assemblies
+	Os assemblies geralmente têm a extensão de arquivo .exe ou
+.dll, dependendo se são aplicações ou bibliotecas.
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
