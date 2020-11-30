@@ -107,15 +107,32 @@ source
 	É introduzido o conceito do ASP.NET vNext, posteriormente
 chamado de ASP.NET Core
 
+	- 2015
+	Lançamento do .NET 4.6 com C#6.0 no Visual Studio 2015
+	Lançamento do Visual Studio Code
 
+	- 2016
+	Microsoft adquire a Xamarin e adiciona o produto como parte
+de sua stack .NET e projeto open source
+	Lançamento do Visual Studio for Mac
+	Lançamento do .Net Core 1.0 - Totalmente novo, open source e
+multiplataforma!
 
+	- 2017
+	Lançamento do .NET Framework 4.7 com C#7.0 no Visual Studio
+2017
+	Lançamento do .NET Core 2.0 com C#7.0 no Visual Studio 2017,
+Visual Studio Code ou Visual Studio for Mac 2017
 
+	- 2019
+	Lançamento do .NET Framework 4.8 com C# 7.3 no Visual Studio
+2019
+	Lançamento do .NET Core 3.0 com C# 8.0 no Visual Studio 2019,
+Visual Studio Code ou Visual Studio for Mac 2019
 
-
-
-
-
-
+	.NET Framework está pronto na versão 4.8! E deixa de ser 
+evoluído - justo com ele WCF e ASP.NET Webforms
+	Previsto o lançamento do .NET 5!!!
 
 
 
