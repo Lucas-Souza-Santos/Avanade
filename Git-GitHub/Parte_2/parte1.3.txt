@@ -1,0 +1,10 @@
+-> Quem usa .NET
+	- casas bahia
+	- saraiva
+	- postos br
+	- unimed
+	- Azul
+	- Itaú
+	- Magalu
+	- stack overflow
+	- microsoft
