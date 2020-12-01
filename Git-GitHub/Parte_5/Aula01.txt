@@ -1,0 +1,33 @@
+Ciclo de vida dos arquivos dentro do Git
+
+- Git init estamos criando um repositória dentro daquele diretório
+
+- Tracked(arquivos que o git tem ciencia deles) ou 
+	- unmodified(arquivo não modificado)
+	- modified (arquivo modificado)
+	- staged 
+Untracked(arquivos que o git não tem ciencia deles) 
+
+
+- servidor
+  Repositório remoto
+
+- ambiente de desenvolvimento
+  diretório de trabalho
+  area atrás da cortina do palco
+  repositório local
+
+
+git add nomeArquivo
+git add *
+git add
+
+
+
+
+
+
+
+
+
+

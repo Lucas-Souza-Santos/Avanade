@@ -1,0 +1,4 @@
+Os Primeiros comandos com o Git
+	- iniciar o git (git init)
+	- iniciar o versionamento (git add)
+	- criar um commit (git commit)

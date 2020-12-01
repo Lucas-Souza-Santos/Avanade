@@ -1,0 +1,56 @@
+-> Entendendo como o GIT funciona por baixo dos panos
+
+- SHA1
+  A sigla SHA significa Secure Hash Algorithm (Algoritmo de Hash 
+Seguro), é um conjunto de funçoes hash criptográficas projetas pela
+NSA(Agência de Segurança Nacional dos EUA)
+  A encriptação gera conjunto de characteres identificador de 40 
+dígitos.
+  É uma forma curta de representar um arquivo.
+  1 echo "ola mundo" | openssl sha1
+  2 (stdin) = f9fc85e559b950175f2b7cd7dad61facbe58e7b
+
+	- Objetos fundamentais
+
+Objetos Internos do Git
+- Blobs
+exemplo:
+	echo 'conteudo' | git hash-object --stdin
+	> fc31e91b26cf85a55e072476de7f263c89260eb1
+	echo -e 'conteudo' | openssl sha1
+	>  65b0d0dda479cc03cce59528e28961e498155f5c
+Os arquivos ficam guardados dentro desse objeto chamado blob, e esse
+objeto contém metadados.
+	Esse objetos vai ter:
+		- O tipo
+		- O tamanho
+		- \0
+		- E o contéudo
+
+- Trees
+ As Tree armazenas os Blobs... 
+ As arvores podem apontar para os blobs
+ ou para outra arvores...
+ As arvores tem um sha1
+	
+- Commits
+ Um commit aponta para uma arvores, parente, autor, mensagem 
+
+
+
+	- Sistema distribuído
+		
+	- Segurança
+		
+
+
+
+
+
+
+
+
+
+
+
+
