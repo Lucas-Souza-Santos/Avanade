@@ -1,0 +1,20 @@
+-> Introdução ao css 
+    O que são seletores: são as tags do html 
+
+    id x classe 
+podem resepresar qualquer elemento 
+
+classe é presedido por um ponto 
+id é precedido por uma #
+
+cada elemento, no navegador, é representado por uma caixa retângular que 
+é chamada de box-model 
+
+O box model tem 4 área:
+    - margin: São espacamento entre elementos
+    - border: circundam o padding e contéudo
+    - padding: é o espaçamento entre o contéudo e a borda 
+    - content : pode ser imagem, texto e etc. 
+
+
+

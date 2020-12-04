@@ -1,0 +1,32 @@
+#body{
+    width: 1200px;
+    height: 600px;
+    background-color: #cacaca;
+    justify-content: auto;
+    margin: auto;
+    padding: 10px;
+    border-radius: 10px;
+}
+#body #header-body{
+    width: 800px;
+    height: 200px;
+    background-color: #fff;
+    margin: auto;
+}
+#header-body img{
+    width: 100px;
+    height: 100px;
+}
+#title_header_h1, 
+#title_post_header_h2,
+#title_post_article_header_h3{
+    color: #f00;
+    font-size: 16pt;
+    font-style: italic;
+}
+.article_first{
+    background-color: blue;
+}
+
+
+
