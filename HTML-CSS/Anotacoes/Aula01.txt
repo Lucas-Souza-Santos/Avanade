@@ -16,5 +16,9 @@ O box model tem 4 área:
     - padding: é o espaçamento entre o contéudo e a borda 
     - content : pode ser imagem, texto e etc. 
 
+-> Estilizando elementos 
+    
+
+
 
 
