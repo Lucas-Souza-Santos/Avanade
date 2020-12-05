@@ -6,6 +6,13 @@ facilita a agiliza o desenvolvimento de páginas web.
     - É um dos frameworks mais conhecidos e usados 
 para desenvolvimento front-end.
 
+    Estrutura báisca do bootstrap 
+        - div 
+        - class 
+        - container 
+        - row 
+        - col 
+o bootstrap dive a tela em 12 partes
 
 
 
