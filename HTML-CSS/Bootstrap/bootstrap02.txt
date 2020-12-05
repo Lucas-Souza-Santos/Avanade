@@ -1,0 +1,15 @@
+indo na documentação vc pode ver que tem muita coisa 
+já pronta. Copiando e colando na página, por exemplo,
+um botão, vemos o efeito, graças ao link inserido do 
+bootstrap. Se retirar ele, toda formatação vai embora.
+
+no exemplo do botão que foi pego, viu que o bootstrap 
+já tem uma definição para classe btn btn-primay
+
+o bootstrap é conjunto de estilos para classes e 
+componontes. 
+
+dentro de navbar ver alguns estilos 
+
+para baixar fotos gratis usou o site pexels
+
