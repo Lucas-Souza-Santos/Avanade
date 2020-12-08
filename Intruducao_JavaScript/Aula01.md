@@ -28,3 +28,8 @@
     vai traduzir o tipo da variável quando for imprimir
     - string.toUperCase -> joga todas as letras da strings para maiusculas
     - string.toLowerCase -> joga tudo para minusculas
+    - pop() -> retira o ultimo elemento da lista
+    - push() -> acrescenta um elemento na minha lista
+    - tostring() -> transforma a lista em um string separada por virgula
+    - .join() -> voce consegue alterar o separador , por outra coisa
+    
