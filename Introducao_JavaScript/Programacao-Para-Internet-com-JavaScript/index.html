@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Minha Página</title>
+    <script type="text/javascript" src="./JS/main2.js">
+    </script>
+</head>
+<body onload="load()">
+    <button type="button" onclick="apertou()">Click Aqui</button>
+    <h3 id="elemento1" onclick="redirecionar1()">Janela Externa</h3>
+    <h3 id="elemento2" onclick="redirecionar2()">Janela Interna</h3>
+    <h3 id="elemento3" onmouseover="mouseMover(this)" onmouseout="voltar(this)">Teste</h3>
+    <select onchange="pegar(this)">
+        <option value="1">Valor 1</option>
+        <option value="2">Valor 2</option>
+        <option value="3">Valor 3</option>
+    </select>
+    
+</body>
+</html>
