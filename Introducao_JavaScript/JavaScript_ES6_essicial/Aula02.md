@@ -19,3 +19,11 @@
         - É um objeto que permite que o objeto seja chamado
     * Array
 
+## Operadores
+    * Aritméticos
+    * Atribuição
+    * Comparação
+    * Condicional
+    * Lógicos
+    * Spread
+ 
