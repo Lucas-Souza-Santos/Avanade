@@ -35,6 +35,6 @@ var n3 = !"Gato"; // retorna false
 // o que retorna false
 ""
 0
-[]
+//[]
 
-!!
+//!!
