@@ -32,4 +32,9 @@
     displex tipo flex tende a jogar todos os elementos 
     para a linha
 
+    classe wrappe(envelope) ela guarda várias outros 
+    elementos. 
+        - fica mais fácil manipular elementos filhos
+        - 
+
 
