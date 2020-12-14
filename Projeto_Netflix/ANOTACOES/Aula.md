@@ -38,4 +38,10 @@
         - 
 
     Para quem deseja continuar
-    
+        - ter um objetivo claro aonde quer chegar
+        - Desafios: 
+            -> Dar vida aos botões
+            -> Criar uma nova página para outro contéudo
+            -> Colocar algo que não está dentro do projeto 
+            -> linkedin.com/in/felipe-aguiar-047/
+
