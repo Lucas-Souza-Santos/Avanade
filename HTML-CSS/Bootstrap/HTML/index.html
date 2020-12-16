@@ -4,39 +4,58 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Bootstrap</title>
-    <link rel="stylesheet" href="../../Bootstrap/css/bootstrap.css" type="text/css">
+    <link rel="stylesheet" href="../css/bootstrap.min.css" type="text/css">
     <link rel="stylesheet" href="css/style.css" type="text/css">
 </head>
 <body>
-    <nav class="navbar navabar-expand-lg navbar-light">
-        <a class="navbar-brand" href="">
-            <img src="../../image/GLStudio.png" alt="" width="220" height="80">
-        </a>
+  <nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <a class="navbar-brand" href="#">
+      NAVBAR
+    </a>
+    
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav mr-auto">
+        <li class="nav-item active">
+          <a class="nav-link" href="#">Quem Somos<span class="sr-only">(current)</span></a>
+        </li>
+
+        <li class="nav-item active">
+          <a class="nav-link" href="#">Quem Somos nos<span class="sr-only">(current)</span></a>
+        </li>
+
+        <li class="nav-item active">
+          <a class="nav-link" href="#">Para onde iremos<span class="sr-only">(current)</span></a>
+        </li>
         
-        <!-- recorte do site-->
-        <div class="collapse navbar-collapse" id="conteudoNavbarSuportado">
-            <ul class="navbar-nav mr-auto">
-              <li class="nav-item active">
-                <a class="nav-link" href="#">Home <span class="sr-only">(página atual)</span></a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" href="#">Link</a>
-              </li>
-              <li class="nav-item dropdown">
-                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                  Dropdown
-                </a>
-                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                  <a class="dropdown-item" href="#">Ação</a>
-                  <a class="dropdown-item" href="#">Outra ação</a>
-                  <div class="dropdown-divider"></div>
-                  <a class="dropdown-item" href="#">Algo mais aqui</a>
-                </div>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link disabled" href="#">Desativado</a>
-              </li>
-            </ul>
-    </nav>
+    </div>
+  </nav>
+
+  <section id="quemsomos">
+    <div class="container-fluid quem-somos text-center margin">
+      <p>Teste</p>
+      <p>container-fluid Ele pega a pagina inteira</p>
+      <p>text-center centraliza o meu texto</p>
+    </div>
+  </section>
+  
+
+  lg grande 
+  sm pequeno
+
+  container row (col-lg-6) * 2 img (col-lg-4) * 3 
+  colocou um texto em cima da imagem
+  colocou margin nos textos 
+  se precisar de 4 imagens col-lg-3
+
+  footer hodapé classe text-center 
+  outro cor container-fluid  text-center bg-footer 
+  alterou a com cabeçalho 
+  alterou a letra
+
+  git add . addiciona todos os arquivos 
+  git commit -m "inclusão do projeto aula bootstrap"
+
+  
+
 </body>
 </html>

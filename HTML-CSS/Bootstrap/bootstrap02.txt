@@ -1,3 +1,5 @@
+
+
 indo na documentação vc pode ver que tem muita coisa 
 já pronta. Copiando e colando na página, por exemplo,
 um botão, vemos o efeito, graças ao link inserido do 
@@ -12,4 +14,7 @@ componontes.
 dentro de navbar ver alguns estilos 
 
 para baixar fotos gratis usou o site pexels
+
+
+
 
