@@ -1,3 +1,12 @@
+# Design patterns
+
+### Definição
+    Design Patterns ou padrões de projetos são soluções 
+generalistas para problemas recorrentes durante o 
+desenvolvimento de um software. Não se trata de um framework 
+ou um código pronto, mas de uma definição de alto nível de 
+como um problema comum pode ser solucionado.
+
 ### A Pattern Language 
     - 1978
     - Christopher Alexander, Sara Ishikawa e Murray 
@@ -11,7 +20,7 @@
     - Solução
 
 ### Using Pattern Languages for Object-Oriented Programs
-    - 1978
+    - 1987
     - Kent Beck e Ward Cunningham
     - 5 padrões de projetos
 
