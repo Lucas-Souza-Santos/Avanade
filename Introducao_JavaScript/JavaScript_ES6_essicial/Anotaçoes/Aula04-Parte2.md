@@ -15,5 +15,5 @@ profundidade especificada(depth)
     Retorna um novo array assim como a função map e execulta 
 um flat de profundidade 1.
 ### Keys
-    Retorna um *Array Iterator* que contém as chaves para 
+    Retorna um *Array* *Iterator* que contém as chaves para 
 cada elemento do array.
