@@ -1,9 +1,9 @@
 # Fundamentos de Arquitetura de sistemas
 
 ## Serviços Web
-    - Serviços web ou web serviços são soluções para 
-aplicações se cominicarem independente de linguagem,
-software e hardwares utilizados.
+    - Serviços web ou web serviços são soluções para
+aplicações se cominicarem independente de linguagem,software 
+e hardwares utilizados.
 
     - Inicialmente Serviços Web foram criados para troca de
 mensagens utilizando a linguagem XML(Extensible Markup 
