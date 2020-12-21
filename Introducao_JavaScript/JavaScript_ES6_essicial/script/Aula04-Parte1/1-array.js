@@ -93,11 +93,59 @@ console.log("Retorna Array sobre um condição: ");
 console.log(allValuesGreaterThanTwo)
 
 // indexOf
+const firstIndexOfItem = arr1.indexOf(3);
 
+console.log("IndexOf: ");
+console.log(firstIndexOfItem);
 
+// lastIndexOf
 
+const lastIndexOfItem = arr1.lastIndexOf(3);
 
+console.log("lastIndexOf: ");
+console.log(lastIndexOfItem);
 
+// includes
+const hasItemOne = arr1.includes(1);
+const hasItem1000 = arr1.includes(1000);
 
+console.log("includes: ");
+console.log(hasItemOne);
+console.log(hasItem1000);
 
+// some
+const hasSomeEvenNumber = arr1.some(v => v % 2 === 0)
 
+console.log("some: ");
+console.log(hasSomeEvenNumber);
+
+// every
+const allEvenNumbers = arr1.every(value => value % 2 === 0);
+
+console.log("every: ");
+console.log(allEvenNumbers);
+
+// sort
+
+const sortValues = arr1.sort();
+
+console.log("Sort: ");
+console.log(sortValues);
+
+// reverse
+const reverteValues = arr1.reverse();
+
+console.log("reverte: ");
+console.log(arr1);
+
+// join
+const joinValue = arr1.join('-');
+
+console.log("join: ");
+console.log(joinValue);
+
+// reduce 
+const reduceValue = arr1.reduce((total, value) => total += value, 0);
+
+console.log("reduce: ");
+console.log(reduceValue);
