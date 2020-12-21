@@ -1,24 +1,55 @@
-console.log("Crianção de um Objeto: ");
+const myText = 'Hello prototype';
 
-const person = {
-    name: ['Bob', 'Smith'],
-    age: 32,
-    gender: 'male',
-    interests: ['music', 'skiing'],
-    bio: function(){
-        alert(this.name[0] + ' ' + this.name[1] + ' is ' + this.age + ' years old. He likes '
-        + this.interests[0] + ' and ' + this.interests[1] + '.');
-    },
-    greeting: function(){
-        alert('Hi! I\'m' + this.name[0] + '.' );
-    }
-};
+//const myText = String('Hello prototype');
 
-console.log(person);
+// console.log(myText.__proto__.split)
 
-person.name = {
-    first: 'Bob',
-    last: 'Smith'
+// console.log(String.prototype.split);
+
+console.log("O __proto__ aponta para o prototype de string");
+console.log(myText.__proto__.split === String.prototype.split);
+
+console.log("O constructor de myText é String");
+
+console.log(myText.constructor === String);
+
+console.log("Animal.constructor -> String");
+console.log("myText.__proto__ -> String.prototype");
+
+// console.log(cachorro.qtdePatas);
+
+function Pessoa(name){
+    this.name = name;
+
+    return {
+        name: 'Text'
+    };
 }
 
-console.log(person);
+const p = new Pessoa('Lucas');
+
+console.log(p);
+
+function Animal(){
+    // this.qtdePatas = 4;
+    Animal.prototype.qtdePatas = 0;
+    Animal.prototype.movimentar = function() {
+        console.log("corre");
+    }
+}
+
+function Cachorro(morde){
+    Animal.call(this, 4);
+
+    this.morde = morde;
+}
+
+Cachorro.prototype = Object.create(Animal);
+Cachorro.prototype.latir = function(){
+    console.log("Au Au Au");
+}
+
+const pug = new Cachorro(false);
+const pitbull = new Cachorro(true);
+
+
