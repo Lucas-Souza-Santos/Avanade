@@ -35,5 +35,27 @@ satisfazem a condição.
 ### indexOf
     Retorna o primeiro índice em que um elemento pode ser
 encontrado no array.
+### lastIndexOf
+    Retorna o último índice em que um elemento pode ser 
+encontrado no array
+### includes
+    Retorna um booleano verificando se determinado elemento
+existe no array.
+### some
+    Retorna um booleano verificando se pelo menos um item de 
+um array satisfaz a condição.
+### every
+    Retorna um booleano verificando se todos os itens de um 
+array satisfazem a condição.
+### sort 
+    Ordena os elementos de um array de acordo com a condição
+### reverse
+    Inverte os elementos de um array
+### join
+    Junta todos os elementos de um array, separados por um 
+delimitador e retorna uma string
+### reduce
+    Retorna um novo tipo de dado iterando cada posição de um 
+array
 
 
