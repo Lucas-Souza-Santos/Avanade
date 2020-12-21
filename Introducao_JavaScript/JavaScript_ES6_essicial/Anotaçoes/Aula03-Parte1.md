@@ -4,7 +4,8 @@
     -> Baseada em protótipos
     -> prototype é uma variável que armazena as definições
     do nosso objeto
-    -> __proto__
+    -> __proto__ aponta para o prototype do tipo que foi 
+    criado.
     -> constructor
 
 'use strict'
