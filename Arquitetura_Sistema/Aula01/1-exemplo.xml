@@ -1,0 +1,12 @@
+<soap:Envolope xmlns:soap="http://www.w3.org/2003/05/soap-envelope">
+    <soap:Header>
+    </soap:Header>
+    <soap:Body>
+        <m:MetodoEndereco xmlns:m="http://www.example.org/endereco">
+            <m:Cidade>Rio de Janeiro</m:Cidade>
+            <m:CEP>99999-99</m:CEP>
+            <m:Logradouro>Avenida Atlântida</m:Logradouro>
+            <m:Numero>99</m:Numero>
+        </m:endereco>
+    </soap:Body>
+</sopa:Envolope>
