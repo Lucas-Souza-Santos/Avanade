@@ -10,7 +10,7 @@
       linguagem, pois usa como linguagem comum o XML.
     * É independente de plataforma e software.
     * Meio de transporte genérico, ou seja, pode ser usado por
-      outros protocolos além do HTTP.
+      outros protocolos além do HTTP
 
 ## XML
     * XML - Extensible Markup Language
@@ -23,6 +23,7 @@
 ## Estrutura do SOAP
     * O "SOAP Message" possui uma estrutura única que deve 
       sempre ser seguida.
+      
                 +---------------------------+
                 |       SOAP Envolope       |
                 |   +-------------------+   |
