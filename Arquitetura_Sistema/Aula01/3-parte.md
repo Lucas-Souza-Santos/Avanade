@@ -14,7 +14,7 @@
       motando o SOAP Message (XML) que será envidao através de
       Web Service.
 
-    VAMOS À PRÁTICA...
+    VAMOS À PRÁTICA..
 
 www.soapclient.com/xml/soapresponder.wsdl
 
