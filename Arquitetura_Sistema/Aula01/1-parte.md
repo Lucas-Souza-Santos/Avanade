@@ -21,9 +21,9 @@ comunicam por meio de redes sobre o protrocolo HTPP.
     - Banco de dados y
 
     Essas aplicações precisando se comunicar, mas elas são 
-feitas como tecnologias diferentes: uma usa python a outra usa
-java; o banco de dados de uma é feita em oracle e o da outra 
-em postgree, como fazer elas se comunicarem ?
+feitas com tecnologias diferentes: uma usa python, a outra usa
+java; o banco de dados, é feita em oracle e o da outra 
+em postgree: como fazer elas se comunicarem ?
 
 
     - web service vai ter o acesso a banco de dados, da 
