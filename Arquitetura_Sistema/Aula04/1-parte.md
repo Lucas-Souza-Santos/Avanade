@@ -1,4 +1,4 @@
-### Coceito de Dados
+### Conceito de Dados
     * Dados de uma maneira geral é um conjunto de valores e
     ocorrencias que descrevem alguma instância, algumas 
     ocorrencia ou alguma caracteristica.

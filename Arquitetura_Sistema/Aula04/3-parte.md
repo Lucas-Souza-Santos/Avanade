@@ -37,7 +37,7 @@
     Select Quantidade, valor, Descricao from item_venda
     join Produto 
     on Codigo = Cod_Produto
-    where valor > 5
+    where valor > 4
 
 ### Funções de Conjunto
     Select Sum(ven.Quantidade) as QTotal,

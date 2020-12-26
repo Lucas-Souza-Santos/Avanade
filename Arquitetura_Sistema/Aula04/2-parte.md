@@ -50,4 +50,4 @@
     * 1 ... 5 - Forma normal
     * 1,2 e 3 - Mais comum
     para ajeitar um cadastro que errei é criando uma nova 
-    tabela, ou uma nova coluna. 
+    tabela, ou uma nova coluna.
