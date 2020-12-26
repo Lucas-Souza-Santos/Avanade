@@ -25,7 +25,7 @@ para converter o código  IL em instruções de máquina nativas.
 	O CLR também fornece outros serviços:
 	- Garbage Collector
 		> Ferramente que trabalha colentando o lixo
-		> Valida/Verifica objeto na memória que não estão 
+		> Valida/Verifica objeto em memória que não estão 
 		sendo mais ultilizado, desalocando para que aja mais
 		memória
 	- Exception Handler
