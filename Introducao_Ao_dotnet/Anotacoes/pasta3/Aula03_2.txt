@@ -19,3 +19,5 @@ empacotados em assemblies
 	Os assemblies geralmente têm a extensão de arquivo .exe ou
 .dll, dependendo se são aplicações ou bibliotecas.
 	
+O C# permite classe aninhadas
+
