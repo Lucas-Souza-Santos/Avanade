@@ -55,5 +55,3 @@ Fundamentos (UI/UX)
     manter o mesmo tom de redação (UX Write), o mesmo padão 
     visual (Design System) e a mesma consistência em diversos 
     devices (UX Design). 
-
-
