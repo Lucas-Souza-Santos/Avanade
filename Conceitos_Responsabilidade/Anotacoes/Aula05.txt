@@ -1,0 +1,25 @@
+-> Bibliografia e Dicas 
+    * Medium: ui-lab-school/ux-strategy
+    * https://www.ideo.com 
+    * youtube: ux lab/ux now 
+    * livros: 
+        - Não me faça pensar: uma abordagem de senso comum 
+        para a usabilidade na web
+        - Arquitetura da informação para a world wide web: 
+        projetando sites da web em grande escala.
+
+
+Exercício final 
+    * Desafio final - Temos um cliente que tem uma loja de roupas 
+    masculina e gostaria de iniciar um projeto de vendas online.
+    De acordo com o brenfing, ele precisa de um website 
+    e-commerce.
+    Desenvolva o layout desse e-commerce, que deverá ter no mínimo: 
+    - Home com chamada, menus e filtro de busca,
+    - Conteúdo institucional sobre a marca, 
+    - catalogo de prodtuo e ofertas, 
+    - tela para compra e pagamentos, 
+    - rodae com demais detalhes sobre a marca, site e 
+    produtos (não se esque das redes sociais)
+
+    email: alexcortes.design@gmail.com

@@ -70,6 +70,7 @@ Procesoa do mundo real
         - Média: Representação de aspectos da ideia 
         - Alta: "Mock-up" da ideia: representação mais 
         similar possível da ideia.
+    
     Níveis de Contextualidade 
         O teste de um prototipo pode envolver ou naõ usuários 
         finais e ser realizado desde em um laboratório, até no 
@@ -97,4 +98,3 @@ Procesoa do mundo real
 
     * Uma boa apresentaçao garante novos clientes e demostra 
     seu profissionalismo.
-
