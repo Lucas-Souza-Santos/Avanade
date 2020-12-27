@@ -1,0 +1,19 @@
+	3. Estrutura de Programa
+	Os principais conceitos organizacionais em C# são:
+	> programas	
+	> namespace
+	> tipos 
+	> membros
+	> assemblies
+
+	Programas C# consistem em um ou mais arquivos
+	Os programas declaram tipos, que contêm membros e podem ser 
+organizados em namespaces
+	Classes e interfaces são exemplos de tipos
+	Campos, métodos, propriedades e eventos são exemplos de 
+membros.
+	Quando os programas C# são compilados, eles são fisicamente
+empacotados em assemblies
+	Os assemblies geralmente têm a extensão de arquivo .exe ou
+.dll, dependendo se são aplicações ou bibliotecas.
+	
