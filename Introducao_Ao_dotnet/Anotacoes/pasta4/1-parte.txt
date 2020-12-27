@@ -1,0 +1,24 @@
+-> Tipos de valor 
+    Variáveis de tipos de valor contêm diretamente seus dados
+    As Variáveis têm sua própria cópia dos dados e não é 
+    possível que as operações afetem outra variável (exceto no 
+    cado das cariáveis de parâmetro ref e out)
+
+    Numéricos: sbyte, short, int, long, byte, ushort,uint,
+    ulong
+    Caractere Unicode: char 
+    Pontos flutuantes: float, double, decimal
+    Booleano: bool 
+    enum, struct e tipos nullable(Exemplo int?)
+
+-> Tipos de referência
+    Variáveis de tipos de referência armazenam referências a 
+    seus dados
+    É possível que duas variáveis façam referência ao mesmo 
+    objeto e, portanto, que operações em uma variável afetem o 
+    objeto referenciado pela outra variável.
+
+    Tipos Classe: class, object, string 
+    Tipos Arrays: int[], int[,], etc...
+    interface, delegate
+
