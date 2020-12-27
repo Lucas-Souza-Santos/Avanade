@@ -1,5 +1,5 @@
 -> Conhecendo o C#
-	- Parte 01
+	- Parte 001
 
 	1. O que é C# ?
 		C# é uma linguagem elegante, orientada a objeto e 

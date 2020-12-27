@@ -17,7 +17,7 @@ namespace Codigo
         {
             if(primeiro == null)
             {
-                throw new InvalidOperationException();
+                throw new InvalidOperationException("A pilha tá vazia");
             }
 
             object resultado = primeiro.item;

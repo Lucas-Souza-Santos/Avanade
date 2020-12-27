@@ -1,0 +1,13 @@
+C:\Users\Notebook\Documents\GitHub\Avanade\Introducao_Ao_dotnet\Codigo\bin\Debug\netcoreapp3.1\Codigo.exe
+C:\Users\Notebook\Documents\GitHub\Avanade\Introducao_Ao_dotnet\Codigo\bin\Debug\netcoreapp3.1\Codigo.deps.json
+C:\Users\Notebook\Documents\GitHub\Avanade\Introducao_Ao_dotnet\Codigo\bin\Debug\netcoreapp3.1\Codigo.runtimeconfig.json
+C:\Users\Notebook\Documents\GitHub\Avanade\Introducao_Ao_dotnet\Codigo\bin\Debug\netcoreapp3.1\Codigo.runtimeconfig.dev.json
+C:\Users\Notebook\Documents\GitHub\Avanade\Introducao_Ao_dotnet\Codigo\bin\Debug\netcoreapp3.1\Codigo.dll
+C:\Users\Notebook\Documents\GitHub\Avanade\Introducao_Ao_dotnet\Codigo\bin\Debug\netcoreapp3.1\Codigo.pdb
+C:\Users\Notebook\Documents\GitHub\Avanade\Introducao_Ao_dotnet\Codigo\obj\Debug\netcoreapp3.1\Codigo.csprojAssemblyReference.cache
+C:\Users\Notebook\Documents\GitHub\Avanade\Introducao_Ao_dotnet\Codigo\obj\Debug\netcoreapp3.1\Codigo.AssemblyInfoInputs.cache
+C:\Users\Notebook\Documents\GitHub\Avanade\Introducao_Ao_dotnet\Codigo\obj\Debug\netcoreapp3.1\Codigo.AssemblyInfo.cs
+C:\Users\Notebook\Documents\GitHub\Avanade\Introducao_Ao_dotnet\Codigo\obj\Debug\netcoreapp3.1\Codigo.csproj.CoreCompileInputs.cache
+C:\Users\Notebook\Documents\GitHub\Avanade\Introducao_Ao_dotnet\Codigo\obj\Debug\netcoreapp3.1\Codigo.dll
+C:\Users\Notebook\Documents\GitHub\Avanade\Introducao_Ao_dotnet\Codigo\obj\Debug\netcoreapp3.1\Codigo.pdb
+C:\Users\Notebook\Documents\GitHub\Avanade\Introducao_Ao_dotnet\Codigo\obj\Debug\netcoreapp3.1\Codigo.genruntimeconfig.cache
