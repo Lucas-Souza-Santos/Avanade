@@ -7,7 +7,7 @@ fortemente tipada
 	A sintaxe do C# é similar a do C, C++ ou Java
 	Suporta os conceitos de encapsulamento, herança e 
 polimorfismo (OO)
-	Os programas C# saõ executados no .NET, que inlui:
+	Os programas C# saõ executados no .NET, que inclui:
 	- CLR (Common Language Runtime)
 	- Conjunto unificado de biblioteca de classes
 	Atualmente o compilador do C# é o Roslyn(escrito em C#)

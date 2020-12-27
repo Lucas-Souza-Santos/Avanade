@@ -20,4 +20,3 @@ empacotados em assemblies
 .dll, dependendo se são aplicações ou bibliotecas.
 	
 O C# permite classe aninhadas
-
