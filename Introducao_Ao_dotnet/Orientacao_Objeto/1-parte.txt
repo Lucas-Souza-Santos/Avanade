@@ -1,0 +1,58 @@
+O que são paradigmas de Programação ?
+-> Paradigmas de Programação
+
+    Paradigmas de programação são modos diferentes de montar a 
+    estrutura e execução de um código. Um paradiga de 
+    programação fornece e determina a visão que o programador 
+    possui sobre a estrutura de execução do programa. 
+ 
+    Cada paradigma surgiu de necessidades diferentes. Dado isso,
+    cada um apresenta maiores vantagens sobre os outros dentro 
+    do desenvolvimento de determinado sistema. Sendo assim, um 
+    paradigma pode oferecer técnicas apropriadas para uma 
+    aplicação específica. Entre eles, estão a programação orientada
+    a objetos(POO) e a programaçao estruturada(PE).
+
+-> Programaçõa Estruturada 
+    A programação estruturada tem como principal característica 
+    sua interpretaçao linha por linha, em pequenos trechos de 
+    código, podendo eles não estar em uma ordem específica. Há 
+    três tipos de estruturas básicas para navegar pelo código: 
+    sequência, seleção e repetição. 
+
+    * Sequência: são os comandos a serem executados de cima para 
+    baixo, linha a linha, do programa, de forma sequencial; 
+    * Seleção: sequências que so devem ser executadas se uma 
+    condiçõa for satisfeitas(exemplos: if-else, switch e comandos
+    parecidos);
+    * Repetição: sequências que devem ser executado repetidamente 
+    ate uma condição for satisfeita (for. while. do-while, etc).
+
+-> Programação Orientada a Objetos 
+    O POO é baseado no conceito de "objetos", que podem conter 
+    dados na forma de campos (atributos) e códigos, na forma 
+    de procedimento(métodos). Uma característica é que um 
+    procedimento de objeto pode acessar, geralmente modificar,
+    os campos de dados do objeto com o qual eles estão associados
+    e cada um é   de receber processar e enviar dados, podendo 
+    ser visto como uma "máquina independente".
+
+    Para que uma linguagem possa ser considerada orientada a 
+    objeto é preciso atender a quatro tópicos bastante 
+    importantes, e esses tópicos é o ue são chamados de "Os 4 
+    pilares da Programaçao Orientada a Objeto". Sâo eles: 
+        - Abstração;
+        - Encapsulamento
+        - Herança;
+        - Polimorfismo.
+
+-> Orientação a objetos em .NET 
+    A importância da POO é simples e direta. Tudo em .NET é 
+    objeto. Mesmo os tipos de dados mais simples são considerados
+    objetos, já estes tambem contèm métodos e propriedades. 
+    Implicitamente, todo e qualquer tipo ou objeto em .NET 
+    possui uma ancestral comum. 
+
+
+
+
