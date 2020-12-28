@@ -64,6 +64,3 @@
     representam valores ou referências de variáveis passados 
     para o método, e um tipo de retorno, que especifica o tipo
     do valor calculado e retornado pelo método. 
-
-
-
