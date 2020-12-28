@@ -1,0 +1,38 @@
+-> Métodos 
+    Os métodos determinam o comportamento dos objetos de uma 
+    classe e são capazes de controlar o estado da instância. São 
+    funções que realizam tarefas. Eles podem ou não retornar 
+    valores, e podem ou não recebeer parâmetros. 
+
+    O envio de mensagens (chamda de métodos ) pode alterar o 
+    estado de um objeto. Esses métodos temos como difundidos os 
+    Getters, os Setters e Construct. 
+
+-> Métodos acessores 
+    Os Getters ou métodos acessores solicitam o acesso a 
+    informações de um determinado produto sem dar acesso 
+    diretamente a ele, colocando ali uma barreira de proteção 
+    para os dados.
+
+-> Métodos Modificadores 
+    Os setters ou métodos modifcadores enviam o pedido de 
+    alteração de uma determinada informaçao de um objeto  sem que 
+    se altere diretamente o mesmo. 
+
+    Ainda utilizando do mesmo exemplo o set recebe um valor e o 
+    repassa o atriuto. 
+
+-> Método construtores
+    A funçaõ do construct ou metodo construtor é inicializar ou 
+    dar forma à classe. è nele que indicamos os valores dos 
+    campos de uma classe. Esses valores podem ser internos (no 
+    código) ou externos (paspsados por parâmetros).
+
+    As regras para definaõ de um construtor são: 
+    * o construtor deve ter o mesmo nome da classe;
+    * nao tem tipo de retorno;
+    * é executado apenas um, apenas uma vez, no momento da 
+    criação do objeto; 
+    * não pode ser chamado diretamente; 
+    * deve ser "public"
+
