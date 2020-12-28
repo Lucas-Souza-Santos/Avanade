@@ -1,0 +1,56 @@
+-> Classes
+    Pode ser considerado como se fosse um molde para o objeto, 
+    contendo dentro de si as principais informações para sua 
+    criação. Define os atributos e métodos comuns que serão 
+    compartilhados por um objeto. 
+
+    maneira de representar uma classe é usar um diagrama
+    UML -> Linguagem Universal de Modelagem 
++-----------------------------------+
+|                                   |
+|    +-----------------------+      |
+|    |   Nome Classe         |      |
+|    +-----------------------+      |
+|    |   atributos           |      |
+|    |                       |      |
+|    +-----------------------+      |
+|    |   métodos             |      |
+|    |                       |      |
+|    +-----------------------+      |
+|    DIAGRAMA DE CLASSE             |
+|                                   |
++-----------------------------------+
+
+-> Objetos 
+    Considera-se um objeto tudo aquilo que em geral possui 
+    atributos, comportamentes e um estado. A classe em sim é um 
+    conceitos abstrato, como um molde que se torna concreto e 
+    palpavel atraves da criação de um objeto. 
+
+    Na programação o objeto é uma instanciação (criação a partir)
+    de uma classe. Para criarmos ou "instanciarmos" objetos de 
+    uma determinada classe, utilizamos o operador new. 
+
+    Exemplo: 
+    Produto obj = new Produto();
+
+-> Visibilidade 
+    A visibilidade é importante para a proteção do código e suas 
+    funcionalidades, define quem pode alterar cada dado dos 
+    trechos de código em três principais níveis: 
+     - Público(representada pelo símbolo "+");
+     - Privada(representada pelo símbolo "-");
+     -protegida(representada pelo símbolo "#");
+
+    De forma completa se encontram os modificadores: 
+        Modificador     Significado
+        public          sem limitação de acesso 
+        protectede internal     
+
+
+    Esse encapsulamento de atributos e métodos impede o chamado 
+    vazamento de escopo, onde um atributo ou método é visível 
+    por alguém que não deveria vê-lo, como outro objeto ou 
+    classe. 
+
+    *** vazamento de escopo ***
