@@ -1,0 +1,46 @@
+-> Instruções 
+    Açoes de um programa são expressas usando instruçoes
+
+    {
+        um bloco permite que várias instruções sejam escritas
+        em contextos
+    }
+
+    * Declaração de variáveis e constantes locais 
+    * if 
+    * switch 
+    * while 
+    * do 
+    * for 
+    * forEach 
+    Instruções auxiliares: 
+    * break 
+    * continue 
+    * return 
+    Instruções para exceçoes
+    * throw 
+    * try.. catch ..finally
+    * using 
+
+-> Array 
+    Um array é uma estrutura de dados que contém um número X de
+    elementos, todos do mesmo tipo, que são acessados através 
+    de índices computados
+
+    Arrays são tipos de referência e a declaração de uma
+    variável array simplesmente reserva espaço para uma 
+    referência de uma instância de array. 
+
+    int[,] a2 = new int[10, 5]; duas dimensões
+    int[,,] a3 = new int [10, 5, 2]; três dimensões 
+
+-> Inicializador de Array 
+    int[] a = new int[] {1, 2, 3};
+    int[] a = {1, 2, 3};
+    int[] t = new int[3];
+    t[0] = 1;
+    t[2] = 2;
+    t[3] = 3;
+
+    https://github.com/gabrielfbarros/csharp-examples
+    about.me/gabrielfaraday
