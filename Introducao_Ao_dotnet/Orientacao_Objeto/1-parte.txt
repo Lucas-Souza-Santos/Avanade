@@ -52,7 +52,3 @@ O que são paradigmas de Programação ?
     objetos, já estes tambem contèm métodos e propriedades. 
     Implicitamente, todo e qualquer tipo ou objeto em .NET 
     possui uma ancestral comum. 
-
-
-
-
