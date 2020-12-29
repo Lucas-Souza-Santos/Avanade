@@ -1,6 +1,6 @@
 -> Entity Framework 
     O Entity framework é um ORM(Mapeador relaciona de objeto) 
-    que permite que os desenvolvedores de .NET traalhem com um 
+    que permite que os desenvolvedores de .NET trabalhem com um 
     banco de dados usando objetos .NET. Elimina a necessidade 
     da maioria do código de acesso a dados que os desenvolvedores 
     geralmente precisam gravar. 
@@ -17,7 +17,7 @@
     de dados foi criado antes de iniciar a aplicação. Isso é 
     muito comum em equipes mais acostumadas com o modelo 
     relacional do que com o modelo orientado a objetos. 
-    Diante desse cenário é normal opatr pela utilização de 
+    Diante desse cenário é normal optar pela utilização de 
     Database First que tem como objetivo ler o banco de dados e 
     aplicar uma engenharia reversa carregando as classes que
     representarão as tabelas do banco.
