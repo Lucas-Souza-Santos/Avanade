@@ -1,0 +1,25 @@
+-> Domain Driven Design
+    É uma abordagem de design de software disciplinada que 
+    reúne um conjunto de conceitos, técnicas e princípios para 
+    construção de software baseados em um modelo de domínio. 
+
+    Domínio é todo e qualquer conhecimento utilizado em uma 
+    determinada área
+
+- Um poco de história 
+    Ele veio do título do livro escrito pr Eric Evans, dono da 
+    DomainLanguage, uma empresa especializada em treinamento e 
+    consultoria para desenvolvimento de software. 
+    O livro de Evans é um grande catalogo de Padrões, baseados 
+    em experiências do autor ao longo de mais de 20 anos de 
+    desenvolvimento de software utilizando técnicas de 
+    orientação a objetos. 
+
+
+
+
+
+
+
+
+

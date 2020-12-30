@@ -1,0 +1,34 @@
+-> Criando uma aplicação ASP.NET API 
+- O que é API ?
+    A sigla API em português significa "interface de programação 
+    de aplicações".
+    As APIs são uma forma de realizar a integração entre 
+    sistemas mesmo que esses possuam linguagens de programação 
+    diferente.
+    Um exemplo de PI é o Google Maps que é utilizado por 
+    empresas de Hotel em que é disponibilizada dentro do site da 
+    empresa a localização em que ele fica.
+
+- O que REST 
+    O REST é um conjunto de princípios que quando aplicados de 
+    maneira correta em uma aplicação, a beneficia com a 
+    arquitetura e padrões da própria web. 
+    Uma aplicação que é capaz de aplicar tais princípios é 
+    chamada de RESTful
+
+- Swagger 
+    Quando e preciso consumir uma API existente é necessário 
+    conhecer as funcionalidades disponíveis e detalhes de como 
+    consumir tal funcionalidade. Diante dessa necessidade 
+    existe o Swagger que é um projeto composto por algumas 
+    ferramentas para auxiliar o desenvolvedor de API em algumas 
+    tarefas como por exemplo a documentação da API. 
+
+
+
+
+
+
+
+
+
