@@ -1,0 +1,24 @@
+É possível alinhar o modelo DDD a arquitetura que eu já possuo ?
+
+    - Sim! Existem estrategias para isso. Uma das estrategias 
+    mais ultilizadas, que o pessoal gosta de ultilizar, é: 
+    camada de anticorrupção. 
+    Voce deixa seu sitema do geito que estar, tratando como ele 
+    funciona, conectando com o mesmo banco de dados que estar 
+    ali. Você cria o seu novo sistema, ultilizando tecnicas de 
+    DDD, craindo uma arquitetura nova. Agora trazendo para parte 
+    tecnologica nova: você modela o DDD desse negocio, você cria 
+    o seu sistema do zero. O novo desafio é: como é que eu migro 
+    os dados do sistema antigo para o novo ?  
+
+
+
+
+
+
+
+
+
+
+
+
