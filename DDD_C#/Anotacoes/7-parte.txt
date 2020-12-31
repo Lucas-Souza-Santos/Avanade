@@ -1,0 +1,24 @@
+-> Regras para modelagem do Domínio 
+
+* Entidades - Classes de objetos que necessitam de uma 
+identidade. Normalmente são elementos do domínio que possuem 
+ciclo de vida dentro de nossa aplicação: um cliente, por 
+exemplo, se cadastra no sistema, faz compras, se torna inativo, 
+é excluido, etc;
+
+* Objetos de Valores - objetos que só carregam valores, mas que 
+não possuem distinção de identidade. Bons exemplos de objetos de 
+valores seriam: strings, números ou cores. Por exemplo: se o 
+lápis de cor da criança acabar e você der um novo lápis a ela,
+da mesma cor, só que de outra caixa, ela não vai se importar. 
+Para a criança, o lápis vermelho de uma caixa é igual ao lápis 
+vermelho de outra caixa. As instâncias de Objetos de valores são 
+imutáveis, isto é, uma vez criados, seus atributos internos não
+poderão mais ser modificados. 
+
+* Agregados - compostos de entidade ou Objetos de valores que
+são encapsulados numa única classe. O agregado serve para manter 
+a integridade do modelo. Elegemos uma classe para servir de raiz
+do agregado. Quandoalgum cliente quiser manipular dados de uma 
+das classes que compõem o agregado, essa manipulação só poderá 
+ser feita através da raiz;
