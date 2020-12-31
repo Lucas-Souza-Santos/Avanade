@@ -1,0 +1,23 @@
+-> Continuação aula 07
+
+* Fábricas - classes responsáveis pelo processo de criação dos 
+agregados ou dos Objetos de valores. Algumas vezes, agregados
+são relativamente complexos e não queremos manter a lógica de 
+criação desses agregados nas classes que o compõem. Extraímos 
+então as regras de criação para uma classe  externa: a fábrica. 
+
+* Serviços - classes que contém lógica de negócio, mas que não 
+pertence a nenhuma entidade ou objetos de valores. É importante
+ressaltar que serviços não guardam estado, ou seja, toda 
+chamada a um mesmo serviço, dada uma mesma pré-condição, deve 
+retornar sempre o mesmo resultado;
+
+* Repositórios - Classes responsáveis por administrar o ciclo 
+de vida dos outros objetos, normalmente entidades, objetos de 
+valor e agregação. Os repositórios são classes que centralizam 
+operações de criação, alteração e remoção de objetos. 
+
+* Módulos - abstrações que têm por objetivos agrupar classes por 
+um determinadao conceito do domínio. A maioria das linguagens de 
+programação oferem suporte a módulos (pocotes em java, 
+namespaces em .net ou módulos em ruby).
