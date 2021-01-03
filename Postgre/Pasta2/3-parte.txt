@@ -1,0 +1,63 @@
+Parte 1: Conceitos users/roles/groups 
+    Definição: 
+    Roles(papéis ou funções), users (usuários) e grupo de usuários
+    são "contas", perfis de atuação em um banco de dados, que 
+    possuem permissões em comum ou específicas. 
+
+    Não versões antreriores do PostgreSQL 8.1, usuários e roles 
+    tinham comportamentos diferentes. 
+    Atualmente, roles e users são alias. 
+
+    É possível que roles pertençam a outros roles;
+
+Parte 2: Administrando users/roles/groups 
+    CREATE ROLE nome [[WITH] option [...]]
+
+    where option can be:
+
+    CREATE ROLE administradores 
+    CREATEDB
+    CREATEROLE 
+    INHERIT
+    NOLOGIN
+    REPLICATION 
+    BYPASSRLS 
+    CONNECTION LIMIT -1; 
+    
+> Associação entre roles 
+    Quando uma role assume as permissões de outra role. 
+    Necessário a opção INHERIT 
+
+    No momento de criação da role: 
+        - IN ROLE (passa a pertencer a role informada)
+        - ROLE (a role informada passa a partencer a nova role)
+    
+    Ou após a criação da role 
+        - GRANT [role a ser concedida] TO [role a assumir as 
+    permissões]
+
+> Desassociar membros entre roles 
+    REVOKE [role que será revogada] FROM [role que terá suas 
+    permissões revogadas]
+
+    REVOKE professores FROM daniel;
+
+> Excluindo uma role 
+    DROP ROLE role_specification;
+
+Parte 3: Administrando acessos (GRANT)
+    São os privilégios de acesso aos objetos do banco de dados. 
+    Privilégios: 
+    -- table 
+    -- database 
+    -- function 
+    -- scrhema 
+
+> REVOKE 
+    Retira as permissões da role
+
+> REVOGANDO TODAS AS PERMISSÕES(SIMPLIFICADO)
+    REVOKE ALL ON ALL TABLS IN SCHEMA [schema] FROM [role]
+
+
+
