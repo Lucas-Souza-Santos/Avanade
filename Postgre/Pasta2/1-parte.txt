@@ -1,0 +1,136 @@
+Parte 1: O arquivo postgresql.conf 
+    Definição
+    Arquivo onde estão definidas e armazenadas todas as 
+    configurações do servidor PostgreSQL. 
+    Aluns parâmetros só podem ser alterados com uma 
+    reinicialização do banco de dados. 
+    A view pg_settings, acessada por dentro do banco de dados, 
+    guarda todas as configurações atuais.
+
+> postgresql.conf
+    Ao acessar a view pg_settings, é possível visualizar todas
+    as configurações atuais: 
+
+    SELECT name, setting 
+    FROM pg_settings;
+
+    Ou é possível usar o comando: 
+    show[parametros]
+> Localização do aquivo postgresql.conf 
+    Por padão, encontra-se dentro do diretório PGDATA definido
+    no memoento da inicialização do cluster de banco de dados. 
+    No sistema operacional Ubuntu, se o PostgreSQL foi instalado 
+    a partir de repositório oficial, o local do arquivo 
+    postgresql.conf será diferente do diretório de dados.
+
+> Configurações de conexão 
+    * LISTEN_ADDRESSES
+    Endereço(s) TCP/IP das interfaces que o servidor PostgreSQL 
+    vai escutar/liberar conexões 
+    * PORT 
+    A porta TCP que o servidor PostgreSQL vai ouvir. O padrão é 
+    5432.
+    *MAX_CONNECTIONS
+    Número máximo de conexão simultâneas no servidor PostgreSQL
+    * SUPERUSER_RESERVED_CONNECTIONS
+    Número de conexões (slots) reservadas para conexões ao banco
+    de dados de super usuários.
+
+> Configureções de autenticação 
+    * AUTHENTICATION_TIMEOUT
+    Tempo máximo em segundos parra o cliente conseguir uma 
+    conexão com o servidor. 
+    * PASSWORD_ENCRYPTION
+    Algoritmo de criptografia das senhas dos novos usuários 
+    criados no banco de dados. 
+    * SSL 
+    Habilita a conexão criptografada por SSL 
+    (Somente se o PostgreSQL foi compilado com suporte SSL).
+
+> Configurações de memória
+    * SHARED_BUFFERS
+    Tamanho da memória compartilhada do servidor PostgreSQL para 
+    cache/buffer de tabelas, índices e demais relações.
+    * WORK_MEM
+    Tamanho da memória para operações de agrupamento e ordenação 
+    (ORDER BY, DISTICT, MERGE JOINS).
+    * MAINTENANCE WORK_MEM
+    Tamanho da memória para operações como VACUUM, INDEX, ALTER 
+    TABLE.
+
+Parte 2: O arquivo pg_hba.conf
+    Definição:
+    Arquivo responsável pelo controle de autenticçaão dos 
+    usuários no servidor PostgreSQL. 
+    O formato do aruivo pode ser:
+
+> Métodos de autenticação 
+    * TRUST (conexão sem reuisição de senha)
+    * REJECT (rejeitar conexões)
+    * MD5 (criptografia md5)
+    * PASSWORD (senha sem criptografia)
+    * GSS (generic security service application program interface)
+    * SSPI (security support provider interface - somente para 
+    windows)
+    * KRB5 (kerberos V5)
+    * IDENT (utiliza o usuário do sistema operacional do cliente
+    via ident server)
+    * PEER (utilza o usuário do sistema operacional do cliente)
+    * LDAP(idap server)
+    * RADIUS(radius server)
+    * CERT (AUTENTICAÇÃO VIA ERTIFICADO SSL do cliente)
+    * PAM (pluggable authentication modules. O usuário precisa esta no banco).
+
+Parte 3: O arquivo pg_ident.conf 
+    Definição: 
+    Arquivo responsável por mapear os usuários do sistema 
+    operacional com os usuários do banco de dados. Localizado no 
+    diretório de dados PGDATA de sua instalação. 
+    A opção ident deve ser utilizada no arquivo pg_hba.conf
+
+Parte 4: COmandos administrativos 
+    Ubuntu:
+    * pg_lsclusters
+    Lista todos os clusters PostgreSQL
+    * Pg_createcluster <version> <cluster name> 
+    Cria um novo cluster PostgreSQL
+    * pg_dropcluster <version> <cluster> 
+    Apaga um cluster PostgreSQL
+    * pg_ ctlcluster <version> <cluster> <action>
+    Start, Stop, Status, Restart de clusters PostgreSQL
+
+    CentOS: 
+    * systemctl <action> <cluster> 
+        > systemctl start postgresql-11
+        Inicia o cluster PostgreSQL
+        > systemctl status postgresql-11
+        Mostra o status do cluster PostgreSQL
+        > systemctl stop postgresql-11
+        Para o cluster PostgreSQL
+        > systemctl restart postgresql-11
+        Restarta o cluster PostgreSQL
+
+> Binários do PostgreSQL: 
+    * createdb
+    * createuser 
+    * dropdb 
+    * dropuser 
+    * initdb 
+    * pg_ctl 
+    * pg_basebackup 
+    * pg_dump / pg_dumpall
+    * pg_restore 
+    * psql 
+    * reindexdb 
+    * vacuumdb 
+
+> Cluster 
+    Coleção de bancos de dados que compartilham as mesmas 
+    configurações (arquivos de configuração) do PostgreSQL e do 
+    sistema operacional (porta, listen_addresses, etc).
+
+> Banco de dados (database)
+    Conjunto de schemas com seus objetos/relações (tabelas, 
+    funções, views, etc).
+> Schema 
+    COnjunto de objetos/relações (tabelas, funçoes, view, etc).
