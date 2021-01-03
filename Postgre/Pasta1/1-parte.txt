@@ -12,6 +12,74 @@
     dados relacionados entre si que geram valor, que criam 
     sentidos aos dados. Material do conhecimento.
 
+Parte2: Modelos relacional - Conceitos e melhores práticas com 
+banco de dados PostgreSQL
+    o  modelo relacional é um modelo representativo e todos os 
+    dados serão organizados em tabelas.
+    - Definição:
+    Modelo mais comum, que classifica e organiza as informações 
+    em tabelas com linhas e colunas. As linhas, ou tuplas, são 
+    os dados organizados, são os valores das tabelas, e as 
+    colunas são os atributos destes dados. 
+
+    - Tabelas 
+    Cojuntos de dados dispostos em colunas e linhas referentes 
+    a um objetivo comum. 
+    As colunas são consideradas como "campoes da tabela", como 
+    atributos da tabela. 
+    As linhas de uma também de tuplas, e é onde estão contidos 
+    os valores os dados. 
+
+> Modelo relacional 
+    - O que pode ser definido como tabelas ?
+    * Coisas tangíveis
+        - Elementos físicos (carro, produto, animal)
+    * Funções
+        - Perfis de usuário, status de compra 
+    * Eventos ou ocorrências 
+        - Produtos de um pedido, histórico de dados. 
+
+> Colunas importantes 
+    * Chave Primária/ Primary Key / PK 
+    COnjunto de um ou mais campos que nunca se repetem. 
+    Identidade da tabela. São utilizados como índice de 
+    referência na criação de relacionamentos entre tabelas.
+    * Chave Estrangeiras / Foreign Key / FK 
+    Valor de referência a uma PK de outra tabela da mesma 
+    tabela para criar um relacionamento.
+
+> Sistema de gerenciamento de banco de dados 
+    Ou Sistemas de gestão de ase de dados. Chamamos pela sigla 
+    SGBD. 
+    Conjunto de programas ou softwares responsáveis pelo 
+    gerenciamento de um bando de dados. 
+    Programas que facilitam a administração de um bando de 
+    dados.
+
+Parte 3: Introduçaõ ao PostgreSQL
+    O que é o PostgreSQL ?
+    Sistema de gerenciamento de banco de dados objeto 
+    relacional. 
+    Teve início no Departamento de Ciência da Computação na 
+    Universidade da Califórnia em Berkeley em 1986.
+
+    SGBD Opensource.
+
+> Arquitetura multiprocessos 
+> Modelo cliente/ servidor
+> Principais característias 
+    * OpernSource
+    * Point in time recovery 
+    * Linguagem procedural com suporte a várias linguagens de 
+    programação(perl, python, etc)
+    * Views, functions, procedures, triggers 
+    * Consultas complexas e Common table expressions(CTE)
+    * Suporte a dados geográficos (postGIS)
+    * Controle de concorrência multi-versão
+    
+
+
+
 
 
 
