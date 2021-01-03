@@ -1,0 +1,19 @@
+-> Introdução - Parte1: Fundamentos de banco de dados
+    Conceitos e melhores práticas com banco de dados 
+    PostgreSQL
+
+    - O que são dados ?
+    Valores brutos, fatos brutos, observações documentadas, 
+    registros soltos, que são recolhidos e armazenados sem 
+    sofrer qualquer tratamento.
+
+    - O que são informações ? 
+    Estruturação de dados, organizaçõa de dados. Conjunto de 
+    dados relacionados entre si que geram valor, que criam 
+    sentidos aos dados. Material do conhecimento.
+
+
+
+
+
+

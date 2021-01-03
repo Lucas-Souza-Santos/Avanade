@@ -1,0 +1,9 @@
+int tempo = 3601;
+
+            int hora = tempo / 3600;
+            int minutos = (tempo % 3600) / 60;
+            int seguntos = ((tempo % 3600) % 60);
+
+            Console.Write(hora + " ");
+            Console.Write(minutos);
+            Console.Write(" " + seguntos);
