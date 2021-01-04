@@ -1,0 +1,49 @@
+Parte 1: JOINs 
+    É usado na união de tabelas 
+    * JOIN 
+    * LEFT JOIN 
+    * RIGHT JOIN 
+    * FULL JOIN 
+    * CROSS JOIN 
+
+> JOIN (INNER) 
+    SELECT tabela_1, campos, tabela_2, campos 
+    FROM tabela_1
+    JOIN tabela_2
+    ON tabela_2.campo = tabela_1.campo
+
+> LEFT JOIN (OUTER)
+    SELECT tabela_1.campos, tabela_2.campos; 
+    FROM tabela_1 
+    LEFET JOIN tabela_2 
+    ON tabela_2.campo = tabela_1.campos;
+
+> HIGHT JOIN (OUTER)
+    SELECT tabela_1.campos, tabela_2.campos; 
+    FROM tabela_1 
+    HIGHT JOIN tabela_2 
+    ON tabela_2.campo = tabela_1.campos;
+
+> FULL JOIN 
+    SELECT tabela_1.campos, tabela_2.campos; 
+    FROM tabela_1 
+    FULL JOIN tabela_2 
+    ON tabela_2.campo = tabela_1.campos;
+
+> CROSS JOIN 
+    Todos os dados de uma tabela serão cruzadas com todos os 
+    dados da tabela referenciada no CROSS JOIN criando uma 
+    matriz. 
+
+    > LEFT JOIN (OUTER)
+    SELECT tabela_1.campos, tabela_2.campos; 
+    FROM tabela_1 
+    CROSS JOIN tabela_2;
+
+
+
+
+
+
+
+
