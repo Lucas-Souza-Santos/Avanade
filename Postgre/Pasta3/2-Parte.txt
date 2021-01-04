@@ -1,0 +1,20 @@
+-> Funções Agregadas 
+    * AVG 
+    SELECT AVG(valor) FROM clientes;
+    * COUNT(opção: HAVING)
+    SELECT COUNT(numero), email
+    FROM clientes
+    WHERE email ILIKE 'gmail.com'
+    GROUP BY email;
+    * MAX 
+    * MIN 
+    * SUM
+
+
+
+
+
+
+
+
+
