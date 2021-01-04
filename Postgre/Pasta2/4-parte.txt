@@ -1,0 +1,77 @@
+Parte 1: Database, Schemas e Objetos
+> Database 
+    É o bando de dados.
+    Grupo de schemas e seu objetos, como tabelas, types, views, 
+    funções, entre outros. 
+    Seus schemas e objetos naõ podem ser compartilhados entre si.
+    Cada database é separado um do outro compartilhando apenas 
+    usuários/roles e configurações do cluster PostgreSQL.
+
+> Schemas 
+    É um grupo de objetos, como tabelas, types, views, funções, 
+    entre outros. 
+    É possível relacionar objetos entre diversos schemas. 
+    Por exemplo: schema public e schema cusro podem ter tabelas 
+    com o mesmo nome (teste por exemplo) relacionando-se entre 
+    si. 
+
+> Objetos 
+    São as tabelas, views, funções, types, sequences, entre 
+    outros, pertencentes aos shemas. 
+
+Parte 2: Tabelas, Colunas e Tipos de dados 
+    Definição
+    COnjuntos de dados dispostos em colunas e linhas referentes 
+    a um objetivo comum. 
+    As colunas são consideradas como "campo da tabela", como 
+    atributos da tabela. 
+    As linhas de uma tabela são chamadas tambe´m de tuplas, e é 
+    onde então contidas os valores, od dados.
+
+> Primary Key/ Chave primária / PK 
+    No conceito de modelo de dados relacional e obedecendo as 
+    regras de normalização, uma PK é um conjunto de um ou mais
+    campos que nunca se repetem em uma tabela e que seus valores 
+    garantem a integridade do dado único e a utilização do
+    mesmo como referência para o relacionamento entro demais 
+    tabela. 
+
+    * não pode haver duas ocorrências de uma mesma entidade com 
+    o mesmo conteúdo na PK 
+    * A chave primária naõ pode ser composta por atributo 
+    opcional, ou seja, atributo que aceite nulo.
+    * Os atributos identificadores devem ser o conjunto mínimo 
+    que pode identificar cada instância de um entidade. 
+    * Não devem ser usadas chaves externas. 
+    * Não de ve conter informação volátil. 
+
+> Foreign Key / Chave Estrangeira / FK 
+    Campo, ou conjunto de campos que são referências de chaves 
+    primárias de outras tabelas ou da mesma tabela. 
+    Sua principal funçaõ é garantir a integridade referencial 
+    entre tabelas.
+
+> Numeric Types 
+> character Types 
+> Date/Time Types
+> Boolean Type
+
+Parte 3: DML e DDL 
+    DML 
+    Data Manipulation Language 
+    Linguagem de manipulação de dados 
+    INSERT, UPDATE, DELETE, SELECT 
+    Alguamas pessoas consideram o SELECT com DML 
+
+    DDL 
+    Data Definition Language 
+    Linguagem de definiçaõ de dados 
+    CREATE, ALTER, DROP
+
+    
+
+
+
+
+
+
