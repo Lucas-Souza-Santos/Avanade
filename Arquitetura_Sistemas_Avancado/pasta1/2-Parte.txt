@@ -1,0 +1,34 @@
+-> Gerenciamento de erros 
+> Gerenciamento de erros 
+    * Dead letter queue (Filas de re-tentativas)
+    * Monitoramento entre serviços 
+    * Rastreamento de fluxo 
+
+> Inconsistência de dados 
+    Web app -> Proxy HTTP  -> Serviço de Carteira -> Message Broker     
+                            Adicionar cartão de crédito
+
+    Web app -> Proxy HTTP -> Serviço de Planos -> Message Broker
+
+    Message Broker -> Serviço de Cobrança -> Banco de dados 
+                                        Dead 
+                                        letter 
+                                        queue
+> Rastreamento de fluxo 
+    Web app -> Proxy HTTP -> Serviço 1 - > Message Broker 
+
+    -> <- Serviço 2
+    ->    Serviço 3
+
+
+
+
+
+
+
+
+
+
+
+
+
