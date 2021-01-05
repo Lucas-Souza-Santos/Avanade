@@ -1,0 +1,31 @@
+-> Data Warehouse 
+
+> OLTP 
+    - On-Line Transaction Procssing 
+    - Atende uma gama muito grande de usuário
+    - Não é volotil ou dados não saõ mudados ou não devem ser mudados
+
+
+> OLAP 
+    - On-line Analytical Processing
+    - gama mais reduzida de usuário
+    - Dados volatil
+
+> Data Warehouse 
+    Posso obter essa informação atraves dos meus bancos de dados 
+    OLTP 
+    Usando SQL 
+    Essa busca são muito pesadas 
+    Essas informações devem ser imutáveis
+
+
+
+
+
+
+
+
+
+
+
+
