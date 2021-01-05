@@ -1,0 +1,56 @@
+-> Views 
+> Views 
+    Deinição 
+    View são visões 
+    São "camadas" para as ttabelas.
+    São "alias" para uma ou mais queries. 
+    Aceitam comando de SELECT,... 
+    ... (INSERT, UPDATE e DELETE) 
+
+    obs: somente as views que fazem referencia a uma tabela 
+    aceitam esses comandos 
+
+    CREATE [ OR REPLACE] [ TEMP | TEMPORATY ] [ RECURSIVE ] 
+    VIEW name [ (column_name [, ... ] ) ]
+    [WITH ( view_option_name [= view_option_value] [, ...] ) ]
+    As query 
+    [ WITH [ CASCADED | LOCAL ] CHECK OPTION ]
+
+> CREATE OR REPLACE VIEW vw_bancos AS (
+    SELECT numero, nome, ativo
+    FROM banco
+); 
+
+    SELECT numero, nome, ativo 
+    FROM vw_bancos;
+
+    CREATE OR REPLACE VIEW vw_bancos (banco_numero, 
+    banco_nome, banco_ativo) AS (
+        SELECT numero, nome, ativo
+        FROM banco
+    );
+
+> INSERT, UPDATE e DELETE 
+    
+    * Funcionam apenas para VIEWs com apenas 1 tabelas. 
+
+> TEMPORATY 
+    VIEW presente apenas na sessão do usuário. 
+    Se voce se desconectar e conectar novamente, a VIEW, não 
+    estará disponível.
+
+> RECURSIVE 
+    * Obrigatório a existência dos campos da VIEW
+    * UNION ALL
+> VIEW
+    WITH LOCAL CHECK OPTION: significa que quero só quer validar 
+as opções da view presente. 
+
+Como faça para validar as opções da primeira view sem ultilizar 
+o WITH LOCAL CHECK OPTION ? 
+    Agente substitui o LOCAL pelo CASCADED
+    O cascaded vai validar as opções da view atual e das view 
+    das quais ela faz referência. 
+
+
+
