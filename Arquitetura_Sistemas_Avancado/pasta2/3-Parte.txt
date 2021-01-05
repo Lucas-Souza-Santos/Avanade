@@ -1,0 +1,44 @@
+BigData - Dados Não Estruturados 
+> O que é Big Data ?
+    Big Data é um termo que descreve o grande volume de dados - tanto 
+    estruturados quanto não-estruturados.
+
+> Dados Estruturados 
+
+> Dados Semi-estruturados 
+    xml rdf owl json pequena estruturas dados semi-estruturados.
+Pq é semi-estruturados ?
+    Pq tem que obedecer há uma estrutura básica e eu posso ou não 
+    posso ter o dado.
+
+    - NoSQL ou Not Only SqL 
+        São banco de dados ou estrutura que controla esse tipo de 
+        informação que se comportam como banco de dados estruturados,
+        mas te dar mais flexibilidade para inserir dados sem uma 
+        regra especifica.
+
+    a meneira como esses banco de dados armazena os dados pode ser: 
+        - Key-Value Store 
+        - Wide Column Store 
+        - Document Store 
+        - Graph Store 
+
+> Dados Não Estruturados 
+    É apena uma coleção de vários tipos de informações 
+
+> Dados Não Estruturados onde pegar
+    - Hadoop 
+    - HDFS 
+    - CEPH
+    - Google BigQuery
+    - Apache STORM 
+    - Apache Spark
+    - DataTorrent  
+
+
+
+
+
+
+
+
