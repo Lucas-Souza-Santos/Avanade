@@ -1,0 +1,16 @@
+Parte 1: Transações 
+    Conceito fundamental de todos os sistemas de bancos de 
+    doas. Conceito de múltiplas etapas/códigos reunidos em 
+    apenas 1 transação, onde o resultado precisa ser tudo ou
+    nada. 
+
+    BEGIN 
+
+    COMMIT 
+
+    ROLLBACK TO my_savepoint; 
+
+    sabepoint 
+
+
+
