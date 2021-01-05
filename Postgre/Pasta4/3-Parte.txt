@@ -1,0 +1,107 @@
+Parte 1: Funções 
+    Definição
+    Conjunto de códigos que são executados dentro de uma 
+    transação com a finalidade de facilitar a programaçaõ e 
+    obter o reaproveitamento/reutilização de códigos. 
+
+    Existem 4 tipos de funçoes: 
+
+    * query language functions (funçoes escritas em SQL)
+    * procedural language functions (funções escritas em, por 
+    exemplo, PL/pgSQL OU PL/py)
+    * internal functions 
+    * C-language functions 
+    
+    Porém, o foco aqui é falar sobre USER DEFINED FUNCTIONS.
+    Funções que podem ser criadas pelo usuário.
+
+> Linguagens 
+    * SQL
+    * PL/PGSQL 
+    * PL/PY 
+    * PL/PHP 
+    * PL/RUBY 
+    * PL/JAVA 
+    * PL/LUA
+
+> IDEMPOTÊNCIA 
+    CREATE OR REPLACE FUNCTION [nome da função]
+
+    * Mesmo nome 
+    * Mesmo tipo de retorno 
+    * Mesmo número de parâmetros/argumetos
+
+> RETURNS 
+    * Tipo de retorno (data type)
+        - INTEGER 
+        - CHAR / VARCHAR 
+        - ROW 
+        - TABLE 
+        - JSON
+
+> LANGUAGE 
+    * SQL
+    * PLPGSQL 
+    * PLJAVA 
+    * PLPY 
+
+> SEGURANÇA 
+    * SECURITY 
+        - INVOKER 
+        - DEFINER 
+> COMPORTAMENTE 
+    * IMMUTABLE
+        - Não pode alterar o banco de dados. 
+        - Funções que garantem o mesmo resultado para os mesmos 
+        argumetnos/parâmetros da função. Evitar a utilização de 
+        selects, pois tabelas podem sofrer alterações. 
+    * STABLE 
+        - Não pode alterar o banco de dados. 
+        - Função que garantem o mesmo resultado para os mesmos 
+        argumentos/parametros da funçaõ. Trabalha melhor com tipos 
+        de current_timestamp e outrso tipos variáveis. Podem 
+        conter selects.
+    * VOLATILLE
+        Comportamentos padrão. Aceita todos os senários. 
+
+> SEGURANÇA E BOAS PRÁTICAS 
+    * CALLED ON NULL INPUT 
+        Padrão. 
+        Se qualquer um dos parâmetros/argumentos for NULL, a 
+        função será executada. 
+    * RETURNS NULL ON NULL INPUT
+       Se qualqer um dos parâmetros/argumentos for NULL, a 
+       função retornará NULL.  
+    * SECURITY INVOKER 
+        Padrão. 
+        A função é executada com as permissões de quem executa.
+    * SECURITY DEFINER 
+        A funao é executada com as permiss~eos de quem criou a 
+        função. 
+
+> RECURSOS 
+    * COST 
+        Custo/row em unidades de CPU 
+    * ROWS 
+        Números estimado de linhas que será analisada pelo 
+        planner.
+
+> SQL FUNCTIONS 
+    Não é possível utiliza TRANSAÇÕES 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

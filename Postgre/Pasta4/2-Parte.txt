@@ -11,6 +11,3 @@ Parte 1: Transações
     ROLLBACK TO my_savepoint; 
 
     sabepoint 
-
-
-

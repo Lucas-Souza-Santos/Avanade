@@ -50,7 +50,4 @@ Como faça para validar as opções da primeira view sem ultilizar
 o WITH LOCAL CHECK OPTION ? 
     Agente substitui o LOCAL pelo CASCADED
     O cascaded vai validar as opções da view atual e das view 
-    das quais ela faz referência. 
-
-
-
+    das quais ela faz referência.
