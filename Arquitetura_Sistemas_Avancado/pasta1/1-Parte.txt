@@ -1,0 +1,36 @@
+- O que é arquitetura em mensageria ?
+
+> Pros e contras 
+    * Desacoplamento
+    * Facil plug e play 
+    * Comunicação assíncrona 
+    * Simples escalabilidade 
+    * Broadcasting 
+    * Permite Event Source 
+    * Single point of failure 
+    * Dificil monitoramento
+
+- Comunicação assíncrona entre serviços 
+
+> Comunicação    
+
+    Passo 1
+    Web app -> Proxy HTTP -> Serviço 1 -> Message Broker 
+
+    Passo 2 
+    Message Broker -> Serviço 2 -> Message Broker 
+
+    Passo 3 
+    Message Broker - > Serviço 3
+
+
+
+
+
+
+
+
+
+
+
+
