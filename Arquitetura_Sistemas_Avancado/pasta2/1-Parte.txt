@@ -1,0 +1,28 @@
+-> Arquitetura de dados naõ estruturados e business intelligence
+
+- BI - Business Intelligence 
+    O BI é composto basicamente por: 
+        Ferramentas, 
+        Infraestrutura, 
+        Profissionais (corpo técnico),
+        Dados 
+
+De vem os dados ? 
+    - Vem normalmente dos SGDB
+    - Dados gerenciais(não são gerados pelo sistema) 
+    - Pesquisa de campo, levantamento de pesquisa de mercado
+    - Indicadores de mercado 
+
+> BI - Solution 
+    - Infraestrutura 
+    - Geranciamento dos dados 
+    - Analytics 
+    - Compartilhamento 
+    - Ferramentas gerais 
+    
+
+
+
+
+
+
