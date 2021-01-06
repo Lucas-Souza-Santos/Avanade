@@ -1,0 +1,32 @@
+Parte 3: Code Quality Analiysis Coninuous Inspection 
+
+> Principais Ferramentas 
+    - sonarqube 
+    - code climate 
+    - codacy 
+
+> Complexidade Ciclomática 
+    Quantos caminhos independente o seu código pode seguir em
+    determinado pedaço da aplicação 
+
+> Vulnerabilidades / Code Smell 
+    - ter uma senha armarado no seu código 
+    - um código comentado 
+
+> Padronização e Estilo 
+    - Não misturar espaço e tabulação 
+    - usar aspa para delimitar string 
+
+> Débito Técnico 
+
+
+> Métricas 
+
+
+> Validando Pull-Requests 
+
+
+
+
+
+
