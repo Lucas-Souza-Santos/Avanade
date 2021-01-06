@@ -1,0 +1,25 @@
+-> Serverless
+> Serverless 
+    * Sem servidor
+        Não preciso cuidar do servidor  
+    * Sem serviço "rodando" 
+        Meu serviço nunca vai está fora do ar 
+    * Sem down time
+
+    Ferramentas 
+        - API Gateway
+            Prover um API REST
+            Todas as API que entrar vai bater no API Gateway, o 
+            API Gateway vai olhar uma lista de rotas são 
+            previamentes setadas
+        - Amazon Kinesis 
+        - AWS Lambda 
+        - Amazon S3  
+
+
+
+
+
+
+
+
