@@ -1,0 +1,52 @@
+-> Fundamentos de arquitetura de aplicações em nuvem 
+> Cloud Computing 
+    * Gerenciamento de hardware/software 
+    * Provedores de servidor e armazenamento 
+    * Pague o que consumir 
+    * Iaas / Pass / Baas 
+
+> Iaas 
+    * Infrastructure as a service 
+    * Ferramentas 
+        - Google Cloud
+        - Azure 
+        - Amazon websercices
+
+> Paas 
+    * Platform as a Service 
+    * a infraestrutura 
+    * tem a plataforma 
+    * pode automatizar
+    * Ferramentas
+        - Google Cloud 
+        - Amazon websercices
+        - Azure
+        Máquinas feita para prover os serviços que eu quero 
+        ultilizar 
+        - Terraform
+        Tem plugins para cada provedor  
+        - CloudFormation
+    Essa plataforma permite versionar o meu código
+    Consigo fazer um Rollback
+
+> Baas 
+    * Backend as a service 
+    * Mobile Backend as a Service
+    * promover um serviço backend 
+    * Ferramentas 
+        - Firebase
+        Posso focar na minha aplicação
+        troca de comunicaçao http, json 
+
+
+
+
+
+
+
+
+
+
+
+
+
