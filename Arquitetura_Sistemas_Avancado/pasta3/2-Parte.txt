@@ -1,0 +1,35 @@
+-> Disponibilidade 
+> Disponibilidade
+    * Iaas - hardware e internet
+        - não se preocupar com o hardware  
+    * Pass - auto scale on the go 
+        - se precisar posso pedir mais máquina 
+    * Baas - não há backend service 
+        - não precisa se preocupar se a aplicação está rodando
+        é responsábilidade da plataforma. 
+        - vai garantir que esses arquivos estaticos vai ser 
+        enviado para os computadores dos meus usuários. 
+    
+    * Kubernets (K8S)
+        muitas empresas estão migrando para o docker ou 
+    usando outro sistema para lançar seus serviço como 
+    container
+    facilita o deploy 
+
+    * Multiplos nodos
+        numero minino de instância são 3 
+        se um serviço der problema os outros dois vão servir
+
+    * Load balancer
+        gerenciaodor de conexão de entrada 
+
+
+
+
+
+
+
+
+
+
+
