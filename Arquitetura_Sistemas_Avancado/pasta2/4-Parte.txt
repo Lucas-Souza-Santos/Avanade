@@ -1,0 +1,20 @@
+-> Data Lake 
+> Data Lake or Big Data ?
+    - É o mesmo que o big data, um lago de dados.
+    - É um big data mais corporativa, mais tratados.
+    - Ele precisa ter um pouquinha mais que o big data, ele precisa 
+    ter um sistema de dataquetion, dar manuteção nesse dados.
+    - Posso ter uma seleção desse dados    
+    - Consulmo desse dados, posso ter injeção desses dados, gráficos.
+    - É um repositório de tudo que tenho de informação dentro da 
+    minha empresa. 
+
+Exemplo prático MongoBD
+
+download 
+
+https://www.mongodb.com/download-center/community
+
+tutorial 
+
+https://www.quackit.com/mongodb/tutorial/
