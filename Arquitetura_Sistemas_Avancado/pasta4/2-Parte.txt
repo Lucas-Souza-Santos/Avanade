@@ -1,0 +1,61 @@
+Parte 2: CI/CD Continuous Integration 
+    CI vs CD 
+
+    Is's the same process for any enviromnment staging, 
+    production, contingency stress, etc. 
+    each may have its particularities 
+
+    - my applications  new version
+        * gets code from source control  
+    - coninuous integration 
+        * build unit tests 
+
+    > continuous delivery Aprove deploy 
+    > continuous deployment Automatic deploy 
+        * Allows Manual or automatic deploy 
+    - Application deployed 
+        * integration tests load tests 
+
+> Principais Ferramentas 
+    cicleci 
+    AppVeyor 
+    Azure Pipelines 
+    GitLab Ci
+    Travis Ci 
+    Jenkins 
+
+> PipeLine 
+    Azure 
+    Deviloper 
+    Visual Studio 
+    Git 
+    Azure Build(ci)
+        Build Job 
+            Get Source 
+            Install Tools 
+            Build Solution 
+            Run Tests 
+            Package Artifacts 
+    Azure Artifacts 
+    Azure Release 
+
+    https://github.com/ThiagoBarradas/jsonmasking
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
