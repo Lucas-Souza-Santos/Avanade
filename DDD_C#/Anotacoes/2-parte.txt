@@ -5,9 +5,9 @@
     sabe disso faz tempo). Se faz necessário o uso de uma 
     linguagem úbiqua(comum entre todos) para descrever o 
     domínio e sua resgras. 
-    * Favorecer reutilzação; os blocos de construção, que 
+    * Favorecer reutilzação: os blocos de construção, que 
     veremos adiante, facilitam aproveitar um mesmo conceito de 
-    domínio ou um mesmo código em vários lugares:
+    domínio ou um mesmo código em vários lugares;
     * Mínimo de acoplamento: com um modelo bem feito, 
     organizado, as várias partes de um sistema interagem sem 
     que haja muita dependência entre módulos ou classes de 
@@ -16,7 +16,7 @@
     mas sim em entender as regras de negócio e como elas devem 
     estar refletidas no código e no modelo do domínio. Não que a 
     tecnologia usada não seja importante, mas essa não é uma 
-    preocupação de DDD. 
+    preocupação de DDD.
 
 
 
