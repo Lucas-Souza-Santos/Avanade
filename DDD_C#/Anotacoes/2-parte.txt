@@ -3,7 +3,7 @@
     desenvolvedores com os especialistas de domínio é algo 
     essencial quando se faz DDD(o pessoal de métodos ágeis já 
     sabe disso faz tempo). Se faz necessário o uso de uma 
-    linguagem úbiqua(comum entro todos) para descrever o 
+    linguagem úbiqua(comum entre todos) para descrever o 
     domínio e sua resgras. 
     * Favorecer reutilzação; os blocos de construção, que 
     veremos adiante, facilitam aproveitar um mesmo conceito de 

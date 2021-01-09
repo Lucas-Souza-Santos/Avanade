@@ -7,7 +7,7 @@
     determinada área
 
 - Um poco de história 
-    Ele veio do título do livro escrito pr Eric Evans, dono da 
+    Ele veio do título do livro escrito por Eric Evans, dono da 
     DomainLanguage, uma empresa especializada em treinamento e 
     consultoria para desenvolvimento de software. 
     O livro de Evans é um grande catalogo de Padrões, baseados 
